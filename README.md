@@ -1,6 +1,6 @@
 # GTM Engineer Roles 🚀
 
-> An open, **auto-updated** list of GTM Engineer roles. Updated 2026-06-28 · **60 live roles**.
+> An open, **auto-updated** list of GTM Engineer roles. Updated 2026-06-29 · **60 live roles**.
 > Curated by [Landed](https://landed.b100x.ai) — scout, get **referred**, prep, and land AI-native jobs.
 
 ⭐ **Star this repo** to track new GTM Engineer roles — it refreshes regularly.
