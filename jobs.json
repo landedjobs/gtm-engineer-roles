@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-7947564",
+    "dedupeKey": "greenhouse:7947564",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Technical Lead Manager, Rider Growth ",
@@ -43,7 +43,7 @@
     "posted": "2026-06-29T23:20:26.000Z"
   },
   {
-    "slug": "greenhouse-8032339",
+    "dedupeKey": "greenhouse:8032339",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Business Intelligence Analyst, Growth",
@@ -69,7 +69,7 @@
     "posted": "2026-06-29T21:27:53.000Z"
   },
   {
-    "slug": "greenhouse-8027437",
+    "dedupeKey": "greenhouse:8027437",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "AI Strategist, Service Management Implementation",
@@ -97,7 +97,7 @@
     "posted": "2026-06-29T16:50:57.000Z"
   },
   {
-    "slug": "greenhouse-4671896006",
+    "dedupeKey": "greenhouse:4671896006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Business Systems Engineer - GTM Systems (Salesforce)",
@@ -133,7 +133,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4665386006",
+    "dedupeKey": "greenhouse:4665386006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Developer Relations Engineer - Marimo",
@@ -161,7 +161,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4687147006",
+    "dedupeKey": "greenhouse:4687147006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Solution Specialist, Infrastructure",
@@ -188,7 +188,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "workday-r29173",
+    "dedupeKey": "workday:R29173",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Customer Value Architect (Remote, FRA)",
@@ -218,7 +218,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-018407",
+    "dedupeKey": "workday:JR-018407",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Director, IT Product Management - GTM AI Apps",
@@ -245,7 +245,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019798",
+    "dedupeKey": "workday:JR2019798",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Developer Relations Manager - Healthcare",
@@ -276,7 +276,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8571971002",
+    "dedupeKey": "greenhouse:8571971002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Director, Field Engineering (Lakebase)",
@@ -308,7 +308,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8572876002",
+    "dedupeKey": "greenhouse:8572876002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Field Engineering",
@@ -344,7 +344,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8535812002",
+    "dedupeKey": "greenhouse:8535812002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Field Engineering Qatar&Africa",
@@ -373,7 +373,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8508943002",
+    "dedupeKey": "greenhouse:8508943002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Partner Engineer, Azure ",
@@ -405,7 +405,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8476506002",
+    "dedupeKey": "greenhouse:8476506002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Field Engineering, AI/ML Product Specialist",
@@ -435,7 +435,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8469396002",
+    "dedupeKey": "greenhouse:8469396002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Engagement Manager",
@@ -462,7 +462,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8428818002",
+    "dedupeKey": "greenhouse:8428818002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Developer Advocate - Neon",
@@ -494,7 +494,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8428880002",
+    "dedupeKey": "greenhouse:8428880002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Capability Engineering & AI Adoption — APJ",
@@ -524,7 +524,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8437449002",
+    "dedupeKey": "greenhouse:8437449002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Capability Engineering & AI Adoption — APJ",
@@ -554,7 +554,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8607647002",
+    "dedupeKey": "greenhouse:8607647002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Capability Engineering & AI Adoption — APJ",
@@ -584,7 +584,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8431931002",
+    "dedupeKey": "greenhouse:8431931002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Field Engineering - Public Sector (Intel, Navy, Air Force)",
@@ -615,7 +615,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8396813002",
+    "dedupeKey": "greenhouse:8396813002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Technical Marketing Engineer - Lakebase/Apps",
@@ -641,7 +641,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8306218002",
+    "dedupeKey": "greenhouse:8306218002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Field CTO - America Industries",
@@ -673,7 +673,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8423972002",
+    "dedupeKey": "greenhouse:8423972002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Lead Adoption Architect - Agent Bricks ",
@@ -696,7 +696,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "ashby-6dc9fec6-011d-4fc1-afb8-c1ceaab6e636",
+    "dedupeKey": "ashby:6dc9fec6-011d-4fc1-afb8-c1ceaab6e636",
     "company": "Lottie",
     "companyDomain": "lottie.org",
     "role": "Senior Growth Engineer - Remote",
@@ -716,7 +716,7 @@
     "posted": "2026-06-26T23:18:18.230Z"
   },
   {
-    "slug": "ashby-b9a7043b-5cd9-4585-b0ec-e2a1c510c6ea",
+    "dedupeKey": "ashby:b9a7043b-5cd9-4585-b0ec-e2a1c510c6ea",
     "company": "Lottie",
     "companyDomain": "lottie.org",
     "role": "Senior Growth Engineer ",
@@ -736,7 +736,7 @@
     "posted": "2026-06-26T23:15:52.290Z"
   },
   {
-    "slug": "greenhouse-4709493005",
+    "dedupeKey": "greenhouse:4709493005",
     "company": "Tebra",
     "companyDomain": "tebra.com",
     "role": "Head of Growth",
@@ -762,7 +762,7 @@
     "posted": "2026-06-26T22:03:55.000Z"
   },
   {
-    "slug": "greenhouse-8008880",
+    "dedupeKey": "greenhouse:8008880",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Growth Engineer",
@@ -786,7 +786,7 @@
     "posted": "2026-06-26T21:05:48.000Z"
   },
   {
-    "slug": "greenhouse-7964956",
+    "dedupeKey": "greenhouse:7964956",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Full Stack Engineer, Growth",
@@ -825,7 +825,7 @@
     "posted": "2026-06-26T21:05:44.000Z"
   },
   {
-    "slug": "greenhouse-7809139",
+    "dedupeKey": "greenhouse:7809139",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Growth AI Outreach Motion ",
@@ -858,7 +858,7 @@
     "posted": "2026-06-26T21:05:36.000Z"
   },
   {
-    "slug": "greenhouse-7520686",
+    "dedupeKey": "greenhouse:7520686",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Implementation Specialist, GTM Accelerate",
@@ -884,7 +884,7 @@
     "posted": "2026-06-26T21:05:30.000Z"
   },
   {
-    "slug": "ashby-410b678f-492c-4448-8051-34e95c2229d0",
+    "dedupeKey": "ashby:410b678f-492c-4448-8051-34e95c2229d0",
     "company": "Emanate",
     "companyDomain": "emanate.ai",
     "role": "Growth Engineer",
@@ -903,7 +903,7 @@
     "posted": "2026-06-26T20:18:59.583Z"
   },
   {
-    "slug": "ashby-13bcbefb-6f3c-4dd9-a6b3-1780647b9e29",
+    "dedupeKey": "ashby:13bcbefb-6f3c-4dd9-a6b3-1780647b9e29",
     "company": "Pennylane",
     "companyDomain": "pennylane.com",
     "role": "AI & Ops Automation",
@@ -930,7 +930,7 @@
     "posted": "2026-06-26T16:49:18.390Z"
   },
   {
-    "slug": "ashby-92959bb6-9ea3-402b-b55f-39a7d8ad8585",
+    "dedupeKey": "ashby:92959bb6-9ea3-402b-b55f-39a7d8ad8585",
     "company": "ButterflyMX",
     "companyDomain": "butterflymx.com",
     "role": "GTM Engineer ",
@@ -950,7 +950,7 @@
     "posted": "2026-06-26T15:16:35.433Z"
   },
   {
-    "slug": "ashby-c64eb572-bb43-4cb8-9724-df7abbdf640b",
+    "dedupeKey": "ashby:c64eb572-bb43-4cb8-9724-df7abbdf640b",
     "company": "Sphere, Inc.",
     "companyDomain": "getsphere.com",
     "role": "GTM Engineer",
@@ -970,7 +970,7 @@
     "posted": "2026-06-26T01:36:39.573Z"
   },
   {
-    "slug": "workday-260875",
+    "dedupeKey": "workday:260875",
     "company": "Cloudera",
     "companyDomain": "cloudera.com",
     "role": "Global AI Solutions Director - Financial Services",
@@ -1002,7 +1002,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-j000695477",
+    "dedupeKey": "workday:J000695477",
     "company": "Aptivio",
     "companyDomain": "aptiv.io",
     "role": "Application Engineer Industrial & Robotics / Ingénieur d’Applications Industrie & Robotique (H/F)",
@@ -1026,7 +1026,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020265",
+    "dedupeKey": "workday:JR2020265",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Developer Relations Manager – Cloud Provider AI Factory",
@@ -1073,7 +1073,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-4704507005",
+    "dedupeKey": "greenhouse:4704507005",
     "company": "Spring Health",
     "companyDomain": "springhealth.com",
     "role": "Director, Lifecycle Marketing",
@@ -1105,32 +1105,7 @@
     "posted": "2026-06-25T14:38:25.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134279249",
-    "company": "Freshworks",
-    "companyDomain": "freshworks.com",
-    "role": "GTM AI Engineer",
-    "applyUrl": "",
-    "location": "San Mateo, CA, United States",
-    "remote": "hybrid",
-    "level": "unknown",
-    "skills": [
-      "agent_orchestration",
-      "llm_integration",
-      "api_integration",
-      "salesforce",
-      "marketo",
-      "langgraph",
-      "function_calling",
-      "rpa",
-      "revenue_operations",
-      "python",
-      "cloud",
-      "data_pipelines"
-    ],
-    "posted": "2026-06-25T14:16:32.969Z"
-  },
-  {
-    "slug": "ashby-0bd90648-cae7-4f97-b753-8d43ed009f37",
+    "dedupeKey": "ashby:0bd90648-cae7-4f97-b753-8d43ed009f37",
     "company": "CodeRabbit",
     "companyDomain": "coderabbit.ai",
     "role": "Growth Product Manager",
@@ -1156,7 +1131,7 @@
     "posted": "2026-06-25T08:14:03.772Z"
   },
   {
-    "slug": "jazzhr-52dgzkry37",
+    "dedupeKey": "jazzhr:52dgZKry37",
     "company": "Advatix, Inc.",
     "companyDomain": "advatix.com",
     "role": "Head of Growth (E-Commerce & Performance Marketing)",
@@ -1195,7 +1170,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2012281",
+    "dedupeKey": "workday:JR2012281",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Developer Relations Manager - Omniverse",
@@ -1235,7 +1210,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2002082",
+    "dedupeKey": "workday:JR2002082",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Go-to-Market Product Manager - Customer Ecosystem and ODM Enablement",
@@ -1269,7 +1244,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8027001",
+    "dedupeKey": "greenhouse:8027001",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Product Manager, Growth",
@@ -1292,7 +1267,7 @@
     "posted": "2026-06-24T22:55:23.000Z"
   },
   {
-    "slug": "ashby-9023c508-8681-4af5-96e4-491ce5ff3e00",
+    "dedupeKey": "ashby:9023c508-8681-4af5-96e4-491ce5ff3e00",
     "company": "Basis",
     "companyDomain": "getbasis.ai",
     "role": "Growth Engineer",
@@ -1311,7 +1286,7 @@
     "posted": "2026-06-24T21:10:35.458Z"
   },
   {
-    "slug": "lever-e6e81ed0-76d9-479b-aa2b-b8a089e5f7b6",
+    "dedupeKey": "lever:e6e81ed0-76d9-479b-aa2b-b8a089e5f7b6",
     "company": "Lillio",
     "companyDomain": "himama.com",
     "role": "Demand Generation Manager",
@@ -1341,7 +1316,7 @@
     "posted": "2026-06-24T19:58:28.257Z"
   },
   {
-    "slug": "greenhouse-4907461101",
+    "dedupeKey": "greenhouse:4907461101",
     "company": "Stability AI",
     "companyDomain": "stability.ai",
     "role": "Senior Product Engineer, Growth & Lifecycle Infrastructure - Music & Audio",
@@ -1372,7 +1347,7 @@
     "posted": "2026-06-24T16:18:24.000Z"
   },
   {
-    "slug": "greenhouse-7777968003",
+    "dedupeKey": "greenhouse:7777968003",
     "company": "Hologram",
     "companyDomain": "hologram.io",
     "role": "GTM Engineer",
@@ -1394,7 +1369,7 @@
     "posted": "2026-06-24T14:34:22.000Z"
   },
   {
-    "slug": "rippling-071d7e45-642d-4a54-836e-5c774361cc59",
+    "dedupeKey": "rippling:071d7e45-642d-4a54-836e-5c774361cc59",
     "company": "Rippling",
     "companyDomain": "rippling.com",
     "role": "GTM Engineer",
@@ -1422,7 +1397,7 @@
     "posted": "2026-06-24T13:52:21.170Z"
   },
   {
-    "slug": "workday-r013646",
+    "dedupeKey": "workday:R013646",
     "company": "SailPoint",
     "companyDomain": "sailpoint.com",
     "role": "Staff Software Engineer, Developer Relations",
@@ -1449,7 +1424,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019846",
+    "dedupeKey": "workday:JR2019846",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Solutions Architect, Data Platform GTM",
@@ -1485,7 +1460,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "ashby-343780a4-4c92-4b8c-a896-3fe550f9ec80",
+    "dedupeKey": "ashby:343780a4-4c92-4b8c-a896-3fe550f9ec80",
     "company": "Addi",
     "companyDomain": "addi.com",
     "role": "GTM Engineer",
@@ -1506,7 +1481,7 @@
     "posted": "2026-06-23T14:33:03.968Z"
   },
   {
-    "slug": "ashby-433cd888-45cf-456b-98e1-f1c53b5c6dbc",
+    "dedupeKey": "ashby:433cd888-45cf-456b-98e1-f1c53b5c6dbc",
     "company": "Lovable",
     "companyDomain": "lovable.dev",
     "role": "GTM Engineering Lead",
@@ -1527,7 +1502,7 @@
     "posted": "2026-06-23T13:55:50.979Z"
   },
   {
-    "slug": "workday-r19208",
+    "dedupeKey": "workday:R19208",
     "company": "Zoom",
     "companyDomain": "zoom.com",
     "role": "Principa AI Product Manager - AI Agent Product Growth",
@@ -1558,7 +1533,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2016782",
+    "dedupeKey": "workday:JR2016782",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Technical Marketing Engineer - EDA and Semiconductor",
@@ -1591,7 +1566,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2001991",
+    "dedupeKey": "workday:JR2001991",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Technical Lead, GenAI - Autonomous Vehicles",
@@ -1627,7 +1602,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2001988",
+    "dedupeKey": "workday:JR2001988",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Developer Relationship Manager - Autonomous Vehicles",
@@ -1661,7 +1636,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "ashby-a05810f4-2461-41e1-a091-bc9f888298c5",
+    "dedupeKey": "ashby:a05810f4-2461-41e1-a091-bc9f888298c5",
     "company": "Pebl",
     "companyDomain": "hellopebl.com",
     "role": "Engineering Manager, Growth",
@@ -1679,7 +1654,7 @@
     "posted": "2026-06-22T20:16:50.776Z"
   },
   {
-    "slug": "recruitee-2649019",
+    "dedupeKey": "recruitee:2649019",
     "company": "Agriplace",
     "companyDomain": "agriplace.com",
     "role": "Growth Marketing Internship - Growing Impact Scale Up",
@@ -1706,7 +1681,7 @@
     "posted": "2026-06-22T08:58:09.000Z"
   },
   {
-    "slug": "workday-r0025526",
+    "dedupeKey": "workday:R0025526",
     "company": "Roquette",
     "companyDomain": "roquette.com",
     "role": "Capsules Business Development Scientist (M/F)",
@@ -1732,7 +1707,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2002429",
+    "dedupeKey": "workday:JR2002429",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Developer Relations Manager, Energy - Power Generation Ecosystem",
@@ -1783,7 +1758,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "ashby-9b31bf58-a0b7-45cd-8302-2fac2c7d3bef",
+    "dedupeKey": "ashby:9b31bf58-a0b7-45cd-8302-2fac2c7d3bef",
     "company": "Polymarket",
     "companyDomain": "polymarket.com",
     "role": "Growth Engineer",
@@ -1802,7 +1777,7 @@
     "posted": "2026-06-18T17:44:13.133Z"
   },
   {
-    "slug": "greenhouse-4902325101",
+    "dedupeKey": "greenhouse:4902325101",
     "company": "COMPASS Pathways",
     "companyDomain": "compasspathways.com",
     "role": "HEOR Science Liaison",
@@ -1830,7 +1805,7 @@
     "posted": "2026-06-18T09:27:09.000Z"
   },
   {
-    "slug": "ashby-bad384e5-4e3d-46d1-af3b-d4a6227e37aa",
+    "dedupeKey": "ashby:bad384e5-4e3d-46d1-af3b-d4a6227e37aa",
     "company": "Fonoa",
     "companyDomain": "fonoa.com",
     "role": "Revenue AI & Automation Architect",
@@ -1860,7 +1835,7 @@
     "posted": "2026-06-18T08:57:17.657Z"
   },
   {
-    "slug": "ashby-3e0054ca-2450-4487-b05d-5af2d01347fc",
+    "dedupeKey": "ashby:3e0054ca-2450-4487-b05d-5af2d01347fc",
     "company": "Granola",
     "companyDomain": "granola.so",
     "role": "GTM Engineer",
@@ -1880,7 +1855,7 @@
     "posted": "2026-06-17T12:54:10.804Z"
   },
   {
-    "slug": "workday-jr-0107990",
+    "dedupeKey": "workday:JR-0107990",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Principal Developer Relations Engineer",
@@ -1912,7 +1887,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0107991",
+    "dedupeKey": "workday:JR-0107991",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Senior Developer Relations Engineer",
@@ -1940,7 +1915,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr1998498",
+    "dedupeKey": "workday:JR1998498",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Ecosystem Developer Relationships Manager",
@@ -1967,7 +1942,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "ashby-c46c1464-d1e3-4fb7-9ace-7f1b9b65774c",
+    "dedupeKey": "ashby:c46c1464-d1e3-4fb7-9ace-7f1b9b65774c",
     "company": "Wealth",
     "companyDomain": "wealth.com",
     "role": "GTM Engineer",
@@ -1987,7 +1962,7 @@
     "posted": "2026-06-16T12:54:20.624Z"
   },
   {
-    "slug": "teamtailor-7915089",
+    "dedupeKey": "teamtailor:7915089",
     "company": "ELSA",
     "companyDomain": "elsaspeak.com",
     "role": "Global CRM Manager",
@@ -2015,7 +1990,7 @@
     "posted": "2026-06-16T03:56:41.000Z"
   },
   {
-    "slug": "greenhouse-4706095005",
+    "dedupeKey": "greenhouse:4706095005",
     "company": "Spring Health",
     "companyDomain": "springhealth.com",
     "role": "Senior Product Manager, Member Growth",
@@ -2046,7 +2021,7 @@
     "posted": "2026-06-15T16:26:18.000Z"
   },
   {
-    "slug": "greenhouse-4706088005",
+    "dedupeKey": "greenhouse:4706088005",
     "company": "Spring Health",
     "companyDomain": "springhealth.com",
     "role": "Senior Product Manager, Member Growth",
@@ -2082,7 +2057,7 @@
     "posted": "2026-06-15T16:24:12.000Z"
   },
   {
-    "slug": "workday-jr2014797",
+    "dedupeKey": "workday:JR2014797",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Engagement Tech Lead, Developer Relations - AI Agents",
@@ -2113,7 +2088,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018119",
+    "dedupeKey": "workday:JR2018119",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Developer Advocate Engineer",
@@ -2141,66 +2116,7 @@
     "posted": "2026-06-13T00:00:00.000Z"
   },
   {
-    "slug": "smartrecruiters-744000131891987",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Consultant Sustainable AI / Business Development",
-    "applyUrl": "",
-    "location": "Courbevoie, IDF, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "sustainable ai",
-      "frugal ai",
-      "ai strategy",
-      "ai consulting",
-      "business development",
-      "client presentations",
-      "eco-design",
-      "ai impact assessment",
-      "roi analysis",
-      "llm",
-      "python",
-      "english"
-    ],
-    "posted": "2026-06-12T12:37:12.105Z"
-  },
-  {
-    "slug": "bamboohr-135",
-    "company": "Robotiq",
-    "companyDomain": "robotiq.com",
-    "role": "Spécialiste en croissance numérique et communications",
-    "applyUrl": "",
-    "location": "Lévis, Quebec",
-    "remote": "unknown",
-    "level": "senior",
-    "skills": [
-      "B2B marketing",
-      "digital marketing",
-      "content marketing",
-      "SEO",
-      "AI SEO",
-      "organic growth",
-      "demand generation",
-      "lead generation",
-      "brand awareness",
-      "corporate communications",
-      "public relations",
-      "social media marketing",
-      "CRM",
-      "marketing automation",
-      "analytics",
-      "performance optimization",
-      "technical content",
-      "value proposition",
-      "channel marketing",
-      "French",
-      "English"
-    ],
-    "posted": "2026-06-12T00:00:00.000Z"
-  },
-  {
-    "slug": "workday-r28926",
+    "dedupeKey": "workday:R28926",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "AI Solutions Strategist, GTM Applications (Remote)",
@@ -2228,7 +2144,7 @@
     "posted": "2026-06-12T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7920941",
+    "dedupeKey": "greenhouse:7920941",
     "company": "Justworks",
     "companyDomain": "justworks.com",
     "role": "GTM Engineer",
@@ -2256,35 +2172,7 @@
     "posted": "2026-06-11T16:36:14.000Z"
   },
   {
-    "slug": "smartrecruiters-744000131635665",
-    "company": "Shippeo",
-    "companyDomain": "shippeo.com",
-    "role": "Senior Growth Engineer (Outbound Automation)",
-    "applyUrl": "",
-    "location": "Paris, , France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "python",
-      "javascript",
-      "crm",
-      "enrichment_apis",
-      "llm",
-      "prompt_engineering",
-      "sql",
-      "automation",
-      "workflow_automation",
-      "go_to_market",
-      "saas",
-      "b2b",
-      "a_b_testing",
-      "data_analysis",
-      "api_integration"
-    ],
-    "posted": "2026-06-11T10:11:57.941Z"
-  },
-  {
-    "slug": "workday-jr-017745",
+    "dedupeKey": "workday:JR-017745",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Industry Principal, Artificial Intelligence",
@@ -2305,7 +2193,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "ashby-d119ae32-6979-4e40-80a9-ff6f39fc636a",
+    "dedupeKey": "ashby:d119ae32-6979-4e40-80a9-ff6f39fc636a",
     "company": "Scribe",
     "companyDomain": "scribehow.com",
     "role": "GTM Engineer",
@@ -2327,7 +2215,7 @@
     "posted": "2026-06-10T22:03:55.628Z"
   },
   {
-    "slug": "greenhouse-8367549002",
+    "dedupeKey": "greenhouse:8367549002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Engineering Manager, GTM Engineering ",
@@ -2354,7 +2242,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "greenhouse-8367552002",
+    "dedupeKey": "greenhouse:8367552002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Engineering Manager, GTM Engineering ",
@@ -2385,7 +2273,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "greenhouse-8436531002",
+    "dedupeKey": "greenhouse:8436531002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Staff Product Manager, Growth",
@@ -2417,7 +2305,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "greenhouse-8436530002",
+    "dedupeKey": "greenhouse:8436530002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Staff Product Manager, Growth",
@@ -2449,7 +2337,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "greenhouse-8436528002",
+    "dedupeKey": "greenhouse:8436528002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Staff Product Manager, Growth",
@@ -2481,7 +2369,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "greenhouse-8436527002",
+    "dedupeKey": "greenhouse:8436527002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Staff Product Manager, Growth",
@@ -2513,7 +2401,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "greenhouse-8367553002",
+    "dedupeKey": "greenhouse:8367553002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Engineering Manager, GTM Engineering ",
@@ -2545,7 +2433,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "greenhouse-8339037002",
+    "dedupeKey": "greenhouse:8339037002",
     "company": "Brex",
     "companyDomain": "brex.com",
     "role": "Engineering Manager, GTM Engineering ",
@@ -2569,7 +2457,7 @@
     "posted": "2026-06-10T17:59:16.000Z"
   },
   {
-    "slug": "ashby-d7e813f3-4783-42c9-9862-bb44c385512c",
+    "dedupeKey": "ashby:d7e813f3-4783-42c9-9862-bb44c385512c",
     "company": "Macroscope",
     "companyDomain": "macroscope.com",
     "role": "GTM Engineer",
@@ -2590,7 +2478,7 @@
     "posted": "2026-06-10T17:35:26.782Z"
   },
   {
-    "slug": "greenhouse-7923195",
+    "dedupeKey": "greenhouse:7923195",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Staff Software Engineer, Growth AI",
@@ -2620,7 +2508,7 @@
     "posted": "2026-06-10T17:14:47.000Z"
   },
   {
-    "slug": "greenhouse-8582633002",
+    "dedupeKey": "greenhouse:8582633002",
     "company": "AlphaSense",
     "companyDomain": "alpha-sense.com",
     "role": "Senior Manager, GTM Engineering",
@@ -2639,7 +2527,7 @@
     "posted": "2026-06-10T15:56:34.000Z"
   },
   {
-    "slug": "greenhouse-8567126002",
+    "dedupeKey": "greenhouse:8567126002",
     "company": "AlphaSense",
     "companyDomain": "alpha-sense.com",
     "role": "Senior Manager, GTM Engineering",
@@ -2658,7 +2546,7 @@
     "posted": "2026-06-10T15:56:32.000Z"
   },
   {
-    "slug": "lever-1246dcf6-5971-445b-88fb-44b6eca11f7e",
+    "dedupeKey": "lever:1246dcf6-5971-445b-88fb-44b6eca11f7e",
     "company": "Restaurant365",
     "companyDomain": "restaurant365.com",
     "role": "Senior Growth Marketing Engineer",
@@ -2699,7 +2587,7 @@
     "posted": "2026-06-10T10:03:30.953Z"
   },
   {
-    "slug": "ashby-8a7ff0ba-ea61-4e6c-a11d-dc5a14ea9dd7",
+    "dedupeKey": "ashby:8a7ff0ba-ea61-4e6c-a11d-dc5a14ea9dd7",
     "company": "Joko",
     "companyDomain": "joko.com",
     "role": "VP Growth",
@@ -2744,7 +2632,7 @@
     "posted": "2026-06-10T07:22:39.977Z"
   },
   {
-    "slug": "greenhouse-7767893003",
+    "dedupeKey": "greenhouse:7767893003",
     "company": "Sigma Computing",
     "companyDomain": "sigmacomputing.com",
     "role": "Agentic Marketing Engineer ",
@@ -2775,7 +2663,7 @@
     "posted": "2026-06-10T05:35:52.000Z"
   },
   {
-    "slug": "workday-r169146",
+    "dedupeKey": "workday:R169146",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Creator Evangelist",
@@ -2801,7 +2689,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019148",
+    "dedupeKey": "workday:JR2019148",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Developer Relations Manager Automotive",
@@ -2835,7 +2723,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "ashby-717e62ff-9a71-4b4e-9c25-1b23450382d4",
+    "dedupeKey": "ashby:717e62ff-9a71-4b4e-9c25-1b23450382d4",
     "company": "Skydio",
     "companyDomain": "skydio.com",
     "role": "GTM Engineer, Post-Sales",
@@ -2860,7 +2748,7 @@
     "posted": "2026-06-09T19:20:59.754Z"
   },
   {
-    "slug": "ashby-f90028b7-6c35-4392-824c-105967ccd406",
+    "dedupeKey": "ashby:f90028b7-6c35-4392-824c-105967ccd406",
     "company": "Clay",
     "companyDomain": "clay.com",
     "role": "GTM Engineer - Systems and Infrastructure",
@@ -2886,7 +2774,7 @@
     "posted": "2026-06-09T13:43:28.295Z"
   },
   {
-    "slug": "ashby-2fcf0725-22c7-4a14-ba79-49a589e77b90",
+    "dedupeKey": "ashby:2fcf0725-22c7-4a14-ba79-49a589e77b90",
     "company": "TravelPerk",
     "companyDomain": "travelperk.com",
     "role": "Senior GTM Engineer",
@@ -2907,7 +2795,7 @@
     "posted": "2026-06-09T12:52:27.384Z"
   },
   {
-    "slug": "ashby-83c93400-ea7c-4ea9-9bf6-212ac26c8d44",
+    "dedupeKey": "ashby:83c93400-ea7c-4ea9-9bf6-212ac26c8d44",
     "company": "TravelPerk",
     "companyDomain": "travelperk.com",
     "role": "Senior GTM Engineer",
@@ -2928,7 +2816,7 @@
     "posted": "2026-06-09T12:49:10.748Z"
   },
   {
-    "slug": "lever-da72d8c9-9604-476a-8f3b-bc130890973b",
+    "dedupeKey": "lever:da72d8c9-9604-476a-8f3b-bc130890973b",
     "company": "Metabase",
     "companyDomain": "metabase.com",
     "role": "Demand Generation",
@@ -2954,7 +2842,7 @@
     "posted": "2026-06-08T16:45:59.089Z"
   },
   {
-    "slug": "ashby-fe286f8c-bf6e-4f9a-995b-9a57e1ed638e",
+    "dedupeKey": "ashby:fe286f8c-bf6e-4f9a-995b-9a57e1ed638e",
     "company": "Blitzy",
     "companyDomain": "blitzy.com",
     "role": "Software Developer Growth Engineer",
@@ -2998,7 +2886,7 @@
     "posted": "2026-06-05T23:37:18.508Z"
   },
   {
-    "slug": "recruitee-2630266",
+    "dedupeKey": "recruitee:2630266",
     "company": "Aikido Security",
     "companyDomain": "aikido.dev",
     "role": "Search Ads Specialist",
@@ -3022,7 +2910,7 @@
     "posted": "2026-06-05T07:58:24.000Z"
   },
   {
-    "slug": "lever-1e2a2b76-878b-40e0-beaa-361df9c454d1",
+    "dedupeKey": "lever:1e2a2b76-878b-40e0-beaa-361df9c454d1",
     "company": "Gojob",
     "companyDomain": "gojob.com",
     "role": "Head of AI Solutions Engineering H/F",
@@ -3059,7 +2947,7 @@
     "posted": "2026-06-05T03:13:32.870Z"
   },
   {
-    "slug": "ashby-458135cf-334c-440b-894c-ca3391270593",
+    "dedupeKey": "ashby:458135cf-334c-440b-894c-ca3391270593",
     "company": "Clera",
     "companyDomain": "getclera.com",
     "role": "Founding GTM Engineer",
@@ -3079,7 +2967,7 @@
     "posted": "2026-06-05T02:29:50.363Z"
   },
   {
-    "slug": "workday-jr2001491",
+    "dedupeKey": "workday:JR2001491",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior GenAI Engagement Lead, Partner Platforms",
@@ -3114,7 +3002,7 @@
     "posted": "2026-06-05T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2008715",
+    "dedupeKey": "workday:JR2008715",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Principal GenAI Engagement Lead, Partner Platforms",
@@ -3151,7 +3039,7 @@
     "posted": "2026-06-05T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2006205",
+    "dedupeKey": "workday:JR2006205",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior GenAI Technical Lead, Partner Platforms",
@@ -3183,7 +3071,7 @@
     "posted": "2026-06-05T00:00:00.000Z"
   },
   {
-    "slug": "workday-2026040",
+    "dedupeKey": "workday:2026040",
     "company": "23andMe",
     "companyDomain": "23andme.com",
     "role": "Growth Designer & Video Editor (Contract)",
@@ -3214,7 +3102,7 @@
     "posted": "2026-06-04T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2007929",
+    "dedupeKey": "workday:JR2007929",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Developer Relations Manager, ISV",
@@ -3245,7 +3133,7 @@
     "posted": "2026-06-04T00:00:00.000Z"
   },
   {
-    "slug": "lever-60be0d39-5deb-4602-89fd-35c12d4ff75a",
+    "dedupeKey": "lever:60be0d39-5deb-4602-89fd-35c12d4ff75a",
     "company": "Pretto",
     "companyDomain": "pretto.fr",
     "role": "Product Manager Growth H/F",
@@ -3275,7 +3163,7 @@
     "posted": "2026-06-03T12:57:55.956Z"
   },
   {
-    "slug": "greenhouse-7976335",
+    "dedupeKey": "greenhouse:7976335",
     "company": "Yext",
     "companyDomain": "yext.co.uk",
     "role": "Senior Salesforce Developer",
@@ -3305,7 +3193,7 @@
     "posted": "2026-06-02T14:57:07.000Z"
   },
   {
-    "slug": "greenhouse-6004574004",
+    "dedupeKey": "greenhouse:6004574004",
     "company": "Zynga",
     "companyDomain": "zynga.com",
     "role": "Growth Manager(Social Media + Community Management)",
@@ -3334,7 +3222,7 @@
     "posted": "2026-06-02T12:08:28.000Z"
   },
   {
-    "slug": "workday-j000699200",
+    "dedupeKey": "workday:J000699200",
     "company": "Aptivio",
     "companyDomain": "aptiv.io",
     "role": "Application Engineering Supervisor",
@@ -3365,7 +3253,7 @@
     "posted": "2026-06-02T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr340490",
+    "dedupeKey": "workday:JR340490",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Growth Lifecycle Automation Marketing Senior Manager",
@@ -3393,7 +3281,7 @@
     "posted": "2026-06-02T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018605",
+    "dedupeKey": "workday:JR2018605",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Technical Marketing Engineer - Physical AI for Healthcare",
@@ -3421,7 +3309,7 @@
     "posted": "2026-06-02T00:00:00.000Z"
   },
   {
-    "slug": "ashby-36d58a98-f810-41eb-95cf-4d8cf3e7cb39",
+    "dedupeKey": "ashby:36d58a98-f810-41eb-95cf-4d8cf3e7cb39",
     "company": "AKUR8",
     "companyDomain": "akur8-tech.com",
     "role": "Senior Life Actuary",
@@ -3452,7 +3340,7 @@
     "posted": "2026-06-01T13:24:38.922Z"
   },
   {
-    "slug": "workday-r012854",
+    "dedupeKey": "workday:R012854",
     "company": "SailPoint",
     "companyDomain": "sailpoint.com",
     "role": "Agentic AI Technologist",
@@ -3489,7 +3377,7 @@
     "posted": "2026-06-01T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr330506",
+    "dedupeKey": "workday:JR330506",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "CTO  - Agentic Process Automation & Intelligence",
@@ -3522,7 +3410,7 @@
     "posted": "2026-06-01T00:00:00.000Z"
   },
   {
-    "slug": "ashby-18204133-1cb4-4594-9f9d-ba2ef6911e4d",
+    "dedupeKey": "ashby:18204133-1cb4-4594-9f9d-ba2ef6911e4d",
     "company": "Joko",
     "companyDomain": "joko.com",
     "role": "Growth Product Manager (senior level)",
@@ -3549,7 +3437,7 @@
     "posted": "2026-05-29T08:22:12.593Z"
   },
   {
-    "slug": "workday-jr2018903",
+    "dedupeKey": "workday:JR2018903",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Developer Advocate – Distributed Training",
@@ -3578,7 +3466,7 @@
     "posted": "2026-05-29T00:00:00.000Z"
   },
   {
-    "slug": "ashby-616371a4-a202-4987-8e24-ba878460ec77",
+    "dedupeKey": "ashby:616371a4-a202-4987-8e24-ba878460ec77",
     "company": "Checkatrade",
     "companyDomain": "careers.checkatrade.com",
     "role": "Trade Growth Lead (Maternity Cover)",
@@ -3608,7 +3496,7 @@
     "posted": "2026-05-28T20:55:20.928Z"
   },
   {
-    "slug": "greenhouse-4877053101",
+    "dedupeKey": "greenhouse:4877053101",
     "company": "Lighthouse",
     "companyDomain": "mylighthouse.com",
     "role": "Senior AI Solutions Engineer for Revenue & Go-To-Market",
@@ -3631,7 +3519,7 @@
     "posted": "2026-05-28T06:55:23.000Z"
   },
   {
-    "slug": "greenhouse-4877052101",
+    "dedupeKey": "greenhouse:4877052101",
     "company": "Lighthouse",
     "companyDomain": "mylighthouse.com",
     "role": "Senior AI Solutions Engineer for Revenue & Go-To-Market",
@@ -3653,7 +3541,7 @@
     "posted": "2026-05-28T06:55:22.000Z"
   },
   {
-    "slug": "ashby-91c73485-5d0c-4272-9643-401ebcfff9d1",
+    "dedupeKey": "ashby:91c73485-5d0c-4272-9643-401ebcfff9d1",
     "company": "Vanta",
     "companyDomain": "vanta.com",
     "role": "Senior Software Engineer, GTM Engineering",
@@ -3677,7 +3565,7 @@
     "posted": "2026-05-28T00:37:12.969Z"
   },
   {
-    "slug": "workable-54359183c0",
+    "dedupeKey": "workable:54359183C0",
     "company": "Smarking",
     "companyDomain": "smarking.com",
     "role": "Director, Lifecycle Marketing - 12 month FTC",
@@ -3709,7 +3597,7 @@
     "posted": "2026-05-28T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018597",
+    "dedupeKey": "workday:JR2018597",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Technical Marketing Engineer",
@@ -3741,7 +3629,7 @@
     "posted": "2026-05-28T00:00:00.000Z"
   },
   {
-    "slug": "lever-167fcdfd-b37f-4fe8-afb6-1e2b2072f6d2",
+    "dedupeKey": "lever:167fcdfd-b37f-4fe8-afb6-1e2b2072f6d2",
     "company": "Saviynt",
     "companyDomain": "saviynt.com",
     "role": "Customer Success AI Architect",
@@ -3765,7 +3653,7 @@
     "posted": "2026-05-27T17:00:29.811Z"
   },
   {
-    "slug": "ashby-b2fa3cec-9a7c-4c46-914e-0e80cd89243f",
+    "dedupeKey": "ashby:b2fa3cec-9a7c-4c46-914e-0e80cd89243f",
     "company": "SplitMetrics",
     "companyDomain": "splitmetrics.com",
     "role": "Growth Marketing Manager",
@@ -3803,7 +3691,7 @@
     "posted": "2026-05-27T08:47:24.134Z"
   },
   {
-    "slug": "workday-jr2018791",
+    "dedupeKey": "workday:JR2018791",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Technical Product Marketing Engineer",
@@ -3851,34 +3739,7 @@
     "posted": "2026-05-27T00:00:00.000Z"
   },
   {
-    "slug": "smartrecruiters-6000000001106698",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "Principal Partner Engineer — Ecosystem",
-    "applyUrl": "",
-    "location": "Texas, KY, United States",
-    "remote": "hybrid",
-    "level": "principal",
-    "skills": [
-      "agentic_ai",
-      "llm_apis",
-      "developer_platforms",
-      "api_design",
-      "typescript",
-      "react",
-      "rest_apis",
-      "product_strategy",
-      "technical_partnerships",
-      "ecosystem_engineering",
-      "mcpserver",
-      "tool_use",
-      "function_calling",
-      "agent_orchestration"
-    ],
-    "posted": "2026-05-26T21:43:54.693Z"
-  },
-  {
-    "slug": "greenhouse-4684499006",
+    "dedupeKey": "greenhouse:4684499006",
     "company": "NewsBreak",
     "companyDomain": "newsbreak.com",
     "role": "Growth Intelligence Engineer (Ads & Revenue)",
@@ -3912,7 +3773,7 @@
     "posted": "2026-05-26T21:16:44.000Z"
   },
   {
-    "slug": "lever-e17ad64d-cdd2-4761-ae52-c7c234e5bd57",
+    "dedupeKey": "lever:e17ad64d-cdd2-4761-ae52-c7c234e5bd57",
     "company": "Gushwork",
     "companyDomain": "gushwork.ai",
     "role": "Campaign Manager",
@@ -3937,7 +3798,7 @@
     "posted": "2026-05-26T10:22:06.999Z"
   },
   {
-    "slug": "greenhouse-6005749004",
+    "dedupeKey": "greenhouse:6005749004",
     "company": "Zynga",
     "companyDomain": "zynga.com",
     "role": "Senior UA Manager",
@@ -3963,7 +3824,7 @@
     "posted": "2026-05-26T09:53:50.000Z"
   },
   {
-    "slug": "workday-jr343113",
+    "dedupeKey": "workday:JR343113",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Experience Engineer Headless360",
@@ -3991,7 +3852,7 @@
     "posted": "2026-05-25T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-6003596004",
+    "dedupeKey": "greenhouse:6003596004",
     "company": "Speechify",
     "companyDomain": "speechify.com",
     "role": "Go-to-Market Engineer",
@@ -4014,7 +3875,7 @@
     "posted": "2026-05-22T16:00:51.000Z"
   },
   {
-    "slug": "ashby-b7ea2f23-efc8-46f1-aad0-cd01fd51cfa4",
+    "dedupeKey": "ashby:b7ea2f23-efc8-46f1-aad0-cd01fd51cfa4",
     "company": "Siena",
     "companyDomain": "siena.cx",
     "role": "Head of Growth",
@@ -4047,7 +3908,7 @@
     "posted": "2026-05-22T01:18:15.726Z"
   },
   {
-    "slug": "workday-jr-014379",
+    "dedupeKey": "workday:JR-014379",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Principal Software Engineer, Go-To-Market (GTM) and CX Products",
@@ -4076,7 +3937,7 @@
     "posted": "2026-05-22T00:00:00.000Z"
   },
   {
-    "slug": "ashby-5dff3211-a5c9-47c8-b98c-a3d4719e1c88",
+    "dedupeKey": "ashby:5dff3211-a5c9-47c8-b98c-a3d4719e1c88",
     "company": "Juniper Square",
     "companyDomain": "junipersquare.com",
     "role": "GTM Engineer",
@@ -4097,7 +3958,7 @@
     "posted": "2026-05-21T19:00:30.821Z"
   },
   {
-    "slug": "lever-d4b858c7-eb73-447a-a83a-17e84106082b",
+    "dedupeKey": "lever:d4b858c7-eb73-447a-a83a-17e84106082b",
     "company": "Samba TV",
     "companyDomain": "samba.tv",
     "role": "Marketing Engineer",
@@ -4127,7 +3988,7 @@
     "posted": "2026-05-19T12:39:45.112Z"
   },
   {
-    "slug": "greenhouse-7738669003",
+    "dedupeKey": "greenhouse:7738669003",
     "company": "Faraday Future",
     "companyDomain": "ff.com",
     "role": "Data-Driven Growth Specialist ",
@@ -4170,7 +4031,7 @@
     "posted": "2026-05-19T01:23:10.000Z"
   },
   {
-    "slug": "ashby-38bd7f7f-d78b-4cd9-b307-8d183b902abb",
+    "dedupeKey": "ashby:38bd7f7f-d78b-4cd9-b307-8d183b902abb",
     "company": "Snowflake",
     "companyDomain": "snowflake.com",
     "role": "GTM Engineer - ABM, Advertising and Growth Marketing",
@@ -4197,7 +4058,7 @@
     "posted": "2026-05-18T23:04:51.122Z"
   },
   {
-    "slug": "ashby-d5c7f612-10e7-4080-8b8a-d51e70fff9c5",
+    "dedupeKey": "ashby:d5c7f612-10e7-4080-8b8a-d51e70fff9c5",
     "company": "Clay",
     "companyDomain": "clay.com",
     "role": "GTM Engineer - Seller Efficiency",
@@ -4219,7 +4080,7 @@
     "posted": "2026-05-18T20:17:17.489Z"
   },
   {
-    "slug": "ashby-242be863-2f62-44a7-909d-6c351dee81d1",
+    "dedupeKey": "ashby:242be863-2f62-44a7-909d-6c351dee81d1",
     "company": "Clay",
     "companyDomain": "clay.com",
     "role": "GTM Engineer - Ecosystem",
@@ -4239,7 +4100,7 @@
     "posted": "2026-05-18T20:15:02.379Z"
   },
   {
-    "slug": "ashby-e43101dd-4e98-4c60-bc1b-adbbb38c7b15",
+    "dedupeKey": "ashby:e43101dd-4e98-4c60-bc1b-adbbb38c7b15",
     "company": "Clay",
     "companyDomain": "clay.com",
     "role": "GTM Engineer - CX",
@@ -4261,7 +4122,7 @@
     "posted": "2026-05-18T20:11:54.993Z"
   },
   {
-    "slug": "lever-349ed7fd-4fde-4d41-832c-23de5c7b9ffe",
+    "dedupeKey": "lever:349ed7fd-4fde-4d41-832c-23de5c7b9ffe",
     "company": "Valiantys Group",
     "companyDomain": "valiantys.com",
     "role": "Director, AI-Enabled DevOps Transformation",
@@ -4288,7 +4149,7 @@
     "posted": "2026-05-18T08:14:46.311Z"
   },
   {
-    "slug": "workday-jr342720",
+    "dedupeKey": "workday:JR342720",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Principal Data and AI Architect",
@@ -4318,7 +4179,7 @@
     "posted": "2026-05-18T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8536588002",
+    "dedupeKey": "greenhouse:8536588002",
     "company": "Airtable",
     "companyDomain": "airtable.com",
     "role": "GTM Engineer",
@@ -4348,38 +4209,7 @@
     "posted": "2026-05-15T19:47:35.000Z"
   },
   {
-    "slug": "smartrecruiters-744000126649995",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Lead Digital Performance & Demand (m/w/d)",
-    "applyUrl": "",
-    "location": "bundesweit, , Germany",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "performance marketing",
-      "demand generation",
-      "linkedin ads",
-      "google ads",
-      "retargeting",
-      "account-based marketing",
-      "abm",
-      "crm",
-      "marketing automation",
-      "salesforce",
-      "conversion rate optimization",
-      "landing page optimization",
-      "a/b testing",
-      "data analysis",
-      "forecasting",
-      "reporting",
-      "b2b marketing",
-      "tech consulting marketing"
-    ],
-    "posted": "2026-05-15T08:41:06.441Z"
-  },
-  {
-    "slug": "lever-2c50c6bf-ae1e-44e4-b59b-05a4fe4c529b",
+    "dedupeKey": "lever:2c50c6bf-ae1e-44e4-b59b-05a4fe4c529b",
     "company": "DISQO",
     "companyDomain": "disqo.com",
     "role": "Staff / Sr. Staff Software Engineer, GTM Innovation",
@@ -4418,7 +4248,7 @@
     "posted": "2026-05-14T17:11:47.151Z"
   },
   {
-    "slug": "workday-jr-017094",
+    "dedupeKey": "workday:JR-017094",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Sr IT Product Manager - GTM",
@@ -4447,7 +4277,7 @@
     "posted": "2026-05-13T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-017553",
+    "dedupeKey": "workday:JR-017553",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Senior Manager, Technical Marketing Engineer",
@@ -4499,7 +4329,7 @@
     "posted": "2026-05-13T00:00:00.000Z"
   },
   {
-    "slug": "ashby-ecd81ae2-5ed9-4dec-a831-877cc05e5e4f",
+    "dedupeKey": "ashby:ecd81ae2-5ed9-4dec-a831-877cc05e5e4f",
     "company": "iwoca",
     "companyDomain": "iwoca.co.uk",
     "role": "Growth Marketing Manager",
@@ -4532,33 +4362,7 @@
     "posted": "2026-05-12T13:28:48.994Z"
   },
   {
-    "slug": "smartrecruiters-744000125868900",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "AI Manager Bundesverwaltung (m/w/d)",
-    "applyUrl": "",
-    "location": "bundesweit, , Germany",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "AI strategy",
-      "GenAI",
-      "business development",
-      "client advisory",
-      "project management",
-      "agile methodologies",
-      "waterfall methodologies",
-      "public sector",
-      "requirements analysis",
-      "stakeholder management",
-      "team leadership",
-      "German",
-      "English"
-    ],
-    "posted": "2026-05-11T14:48:16.834Z"
-  },
-  {
-    "slug": "ashby-0499df46-013c-4f7d-9f6c-3445b2d63361",
+    "dedupeKey": "ashby:0499df46-013c-4f7d-9f6c-3445b2d63361",
     "company": "Joko",
     "companyDomain": "joko.com",
     "role": "User Acquisition Manager",
@@ -4587,7 +4391,7 @@
     "posted": "2026-05-11T12:44:42.273Z"
   },
   {
-    "slug": "greenhouse-7728195003",
+    "dedupeKey": "greenhouse:7728195003",
     "company": "Moloco",
     "companyDomain": "moloco.com",
     "role": "Senior Growth Manager ",
@@ -4615,7 +4419,7 @@
     "posted": "2026-05-11T07:29:06.000Z"
   },
   {
-    "slug": "lever-bdcb4767-be80-428a-8455-b9eddc0008c4",
+    "dedupeKey": "lever:bdcb4767-be80-428a-8455-b9eddc0008c4",
     "company": "Gushwork",
     "companyDomain": "gushwork.ai",
     "role": "Founder's Office (New Products)",
@@ -4641,7 +4445,7 @@
     "posted": "2026-05-11T01:03:34.864Z"
   },
   {
-    "slug": "workday-r168682",
+    "dedupeKey": "workday:R168682",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Firefly Foundry Field CTO, Brands & Agency",
@@ -4667,7 +4471,7 @@
     "posted": "2026-05-11T00:00:00.000Z"
   },
   {
-    "slug": "ashby-6fb704d3-9454-4ad4-b442-9a6db66d253f",
+    "dedupeKey": "ashby:6fb704d3-9454-4ad4-b442-9a6db66d253f",
     "company": "Airwallex",
     "companyDomain": "airwallex.com",
     "role": "Engineering Lead, Growth",
@@ -4701,7 +4505,7 @@
     "posted": "2026-05-08T08:49:39.614Z"
   },
   {
-    "slug": "greenhouse-7728091003",
+    "dedupeKey": "greenhouse:7728091003",
     "company": "Moloco",
     "companyDomain": "moloco.com",
     "role": "Growth Manager ",
@@ -4728,7 +4532,7 @@
     "posted": "2026-05-08T06:32:05.000Z"
   },
   {
-    "slug": "workday-r26862",
+    "dedupeKey": "workday:R26862",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Customer Value Architect - Enterprise (West, Remote)",
@@ -4756,7 +4560,7 @@
     "posted": "2026-05-07T00:00:00.000Z"
   },
   {
-    "slug": "lever-abc7f58c-22bf-4b21-9cfc-b153c2c91d97",
+    "dedupeKey": "lever:abc7f58c-22bf-4b21-9cfc-b153c2c91d97",
     "company": "OakNorth",
     "companyDomain": "oaknorth.com",
     "role": "Organic Growth Specialist - SEO/AEO",
@@ -4794,7 +4598,7 @@
     "posted": "2026-05-05T11:01:18.122Z"
   },
   {
-    "slug": "greenhouse-5870086004",
+    "dedupeKey": "greenhouse:5870086004",
     "company": "Clockwork Systems",
     "companyDomain": "clockwork.io",
     "role": "Revenue Operations Lead/GTM Engineer ",
@@ -4818,7 +4622,7 @@
     "posted": "2026-05-05T05:01:36.000Z"
   },
   {
-    "slug": "greenhouse-8534452002",
+    "dedupeKey": "greenhouse:8534452002",
     "company": "Recorded Future",
     "companyDomain": "recordedfuture.com",
     "role": "Marketing Systems & AI Automation Manager",
@@ -4852,7 +4656,7 @@
     "posted": "2026-05-04T13:45:51.000Z"
   },
   {
-    "slug": "bamboohr-180",
+    "dedupeKey": "bamboohr:180",
     "company": "Selector AI",
     "companyDomain": "selector.ai",
     "role": "Technical Marketing Engineer",
@@ -4896,7 +4700,7 @@
     "posted": "2026-05-03T18:30:00.000Z"
   },
   {
-    "slug": "ashby-8d425918-4473-4528-a6b1-88abfcd3f951",
+    "dedupeKey": "ashby:8d425918-4473-4528-a6b1-88abfcd3f951",
     "company": "Anrok",
     "companyDomain": "anrok.com",
     "role": "GTM Engineer",
@@ -4918,7 +4722,7 @@
     "posted": "2026-05-02T04:37:42.326Z"
   },
   {
-    "slug": "ashby-47456e51-6cd4-4904-ace6-9a36b25eae1f",
+    "dedupeKey": "ashby:47456e51-6cd4-4904-ace6-9a36b25eae1f",
     "company": "Socure",
     "companyDomain": "socure.com",
     "role": "Head of Growth Engineering",
@@ -4941,7 +4745,7 @@
     "posted": "2026-05-01T17:04:31.282Z"
   },
   {
-    "slug": "ashby-d7035400-5d3d-47b6-a547-9e4187ed7946",
+    "dedupeKey": "ashby:d7035400-5d3d-47b6-a547-9e4187ed7946",
     "company": "iwoca",
     "companyDomain": "iwoca.co.uk",
     "role": "Performance Marketing Executive - Direct Acquisition / Performance Marketing",
@@ -4974,7 +4778,7 @@
     "posted": "2026-05-01T15:07:54.799Z"
   },
   {
-    "slug": "lever-465af5f5-f162-429e-89ea-1060126e7a37",
+    "dedupeKey": "lever:465af5f5-f162-429e-89ea-1060126e7a37",
     "company": "Samba TV",
     "companyDomain": "samba.tv",
     "role": "Growth Marketer, Pipeline Development",
@@ -5005,7 +4809,7 @@
     "posted": "2026-05-01T13:07:59.773Z"
   },
   {
-    "slug": "ashby-7ee2be37-f261-47fa-add0-580c77d5bdbb",
+    "dedupeKey": "ashby:7ee2be37-f261-47fa-add0-580c77d5bdbb",
     "company": "Talos",
     "companyDomain": "talos.com",
     "role": "GTM Engineer ",
@@ -5029,7 +4833,7 @@
     "posted": "2026-04-30T16:23:29.095Z"
   },
   {
-    "slug": "ashby-825b6d91-bc5e-4165-8a7c-2022a2248f7e",
+    "dedupeKey": "ashby:825b6d91-bc5e-4165-8a7c-2022a2248f7e",
     "company": "LangChain",
     "companyDomain": "langchain.com",
     "role": "GTM Engineer",
@@ -5049,7 +4853,7 @@
     "posted": "2026-04-29T19:21:59.660Z"
   },
   {
-    "slug": "ashby-712e5e36-1901-4240-91fd-bb7af670b208",
+    "dedupeKey": "ashby:712e5e36-1901-4240-91fd-bb7af670b208",
     "company": "Playground",
     "companyDomain": "playground.global",
     "role": "Founding GTM Engineer",
@@ -5075,7 +4879,7 @@
     "posted": "2026-04-29T15:54:56.613Z"
   },
   {
-    "slug": "greenhouse-4853585101",
+    "dedupeKey": "greenhouse:4853585101",
     "company": "Eleos Health",
     "companyDomain": "eleos.health",
     "role": "AI Builder (US, Remote)",
@@ -5113,7 +4917,7 @@
     "posted": "2026-04-29T15:38:43.000Z"
   },
   {
-    "slug": "ashby-69916bd4-f70b-404a-abc7-9a270fdedfaa",
+    "dedupeKey": "ashby:69916bd4-f70b-404a-abc7-9a270fdedfaa",
     "company": "Mutiny",
     "companyDomain": "mutinyhq.com",
     "role": "GTM Engineer",
@@ -5131,7 +4935,7 @@
     "posted": "2026-04-28T22:11:40.508Z"
   },
   {
-    "slug": "greenhouse-7718187003",
+    "dedupeKey": "greenhouse:7718187003",
     "company": "Moloco",
     "companyDomain": "moloco.com",
     "role": "Senior Strategic Growth Manager (Commerce Media)",
@@ -5156,7 +4960,7 @@
     "posted": "2026-04-28T04:44:40.000Z"
   },
   {
-    "slug": "teamtailor-7621223",
+    "dedupeKey": "teamtailor:7621223",
     "company": "nPlan",
     "companyDomain": "nplan.io",
     "role": "VP of Growth",
@@ -5187,7 +4991,7 @@
     "posted": "2026-04-23T08:42:21.000Z"
   },
   {
-    "slug": "ashby-b621b620-85eb-4f73-8d77-e4ebd458b02d",
+    "dedupeKey": "ashby:b621b620-85eb-4f73-8d77-e4ebd458b02d",
     "company": "Baseten",
     "companyDomain": "baseten.co",
     "role": "GTM Engineer ",
@@ -5211,7 +5015,7 @@
     "posted": "2026-04-22T00:03:23.260Z"
   },
   {
-    "slug": "greenhouse-8509567002",
+    "dedupeKey": "greenhouse:8509567002",
     "company": "Anaplan",
     "companyDomain": "anaplan.com",
     "role": "Salesforce Solution Architect",
@@ -5238,7 +5042,7 @@
     "posted": "2026-04-21T17:52:40.000Z"
   },
   {
-    "slug": "lever-09afb16e-e868-4369-8989-2c6aa7077154",
+    "dedupeKey": "lever:09afb16e-e868-4369-8989-2c6aa7077154",
     "company": "Saviynt",
     "companyDomain": "saviynt.com",
     "role": "Marketing Ops AI Agent Engineer",
@@ -5270,7 +5074,7 @@
     "posted": "2026-04-21T15:19:50.401Z"
   },
   {
-    "slug": "greenhouse-7707404003",
+    "dedupeKey": "greenhouse:7707404003",
     "company": "Moloco",
     "companyDomain": "moloco.com",
     "role": "Growth Manager - Advertiser & Agency (Commerce Media)",
@@ -5294,7 +5098,7 @@
     "posted": "2026-04-21T03:41:01.000Z"
   },
   {
-    "slug": "ashby-67169aa3-0737-453f-8d17-5f3e203aa88a",
+    "dedupeKey": "ashby:67169aa3-0737-453f-8d17-5f3e203aa88a",
     "company": "Ironclad",
     "companyDomain": "ironcladapp.com",
     "role": "GTM Engineer",
@@ -5314,7 +5118,7 @@
     "posted": "2026-04-17T19:00:04.161Z"
   },
   {
-    "slug": "ashby-18f24ccf-5182-4099-8802-ab9b36e88db7",
+    "dedupeKey": "ashby:18f24ccf-5182-4099-8802-ab9b36e88db7",
     "company": "Dust",
     "companyDomain": "dust.tt",
     "role": "Growth Engineer",
@@ -5339,7 +5143,7 @@
     "posted": "2026-04-17T16:01:14.032Z"
   },
   {
-    "slug": "greenhouse-4843556101",
+    "dedupeKey": "greenhouse:4843556101",
     "company": "Parloa",
     "companyDomain": "parloa.com",
     "role": "GTM Engineer",
@@ -5363,7 +5167,7 @@
     "posted": "2026-04-16T14:51:15.000Z"
   },
   {
-    "slug": "ashby-99c348b9-3b92-4050-aeab-a99cd6dadbc6",
+    "dedupeKey": "ashby:99c348b9-3b92-4050-aeab-a99cd6dadbc6",
     "company": "Hilbert",
     "companyDomain": "hilberts.ai",
     "role": "GTM Engineer / RevOps Lead",
@@ -5388,7 +5192,7 @@
     "posted": "2026-04-15T14:34:45.562Z"
   },
   {
-    "slug": "ashby-18f252a7-7b19-44b6-b175-6dfcaea8b2e8",
+    "dedupeKey": "ashby:18f252a7-7b19-44b6-b175-6dfcaea8b2e8",
     "company": "Pennylane",
     "companyDomain": "pennylane.com",
     "role": "Fullstack Software Engineer RoR/JS W/M",
@@ -5416,7 +5220,7 @@
     "posted": "2026-04-15T13:14:53.103Z"
   },
   {
-    "slug": "greenhouse-7697773003",
+    "dedupeKey": "greenhouse:7697773003",
     "company": "Moloco",
     "companyDomain": "moloco.com",
     "role": "Growth Manager (Commerce Media)",
@@ -5443,7 +5247,7 @@
     "posted": "2026-04-14T03:13:14.000Z"
   },
   {
-    "slug": "workday-r167690",
+    "dedupeKey": "workday:R167690",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Principal Value Consultant Firefly Enterprise Solutions",
@@ -5473,7 +5277,7 @@
     "posted": "2026-04-14T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd95973",
+    "dedupeKey": "workday:26WD95973",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Software Architect, Sales & Success",
@@ -5502,7 +5306,7 @@
     "posted": "2026-04-14T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-4839456101",
+    "dedupeKey": "greenhouse:4839456101",
     "company": "Creative Fabrica",
     "companyDomain": "creativefabrica.com",
     "role": "Faceless Video Creator",
@@ -5529,7 +5333,7 @@
     "posted": "2026-04-13T09:26:22.000Z"
   },
   {
-    "slug": "workday-jr337732",
+    "dedupeKey": "workday:JR337732",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Slack Growth Marketing Senior Manager",
@@ -5562,7 +5366,7 @@
     "posted": "2026-04-13T00:00:00.000Z"
   },
   {
-    "slug": "ashby-b11fecc9-2647-4905-ba67-cc610a8cf1c1",
+    "dedupeKey": "ashby:b11fecc9-2647-4905-ba67-cc610a8cf1c1",
     "company": "Airwallex",
     "companyDomain": "airwallex.com",
     "role": "Director GTM Engineering",
@@ -5583,7 +5387,7 @@
     "posted": "2026-04-10T22:30:59.112Z"
   },
   {
-    "slug": "ashby-990c41b1-e3c3-4a75-83c2-ca916899c110",
+    "dedupeKey": "ashby:990c41b1-e3c3-4a75-83c2-ca916899c110",
     "company": "WorkOS",
     "companyDomain": "workos.com",
     "role": "GTM Engineer",
@@ -5602,7 +5406,7 @@
     "posted": "2026-04-10T16:06:27.435Z"
   },
   {
-    "slug": "lever-7adf21b5-e8d4-44c5-b37e-48e93208ecb2",
+    "dedupeKey": "lever:7adf21b5-e8d4-44c5-b37e-48e93208ecb2",
     "company": "Gojob",
     "companyDomain": "gojob.com",
     "role": "Head of AI Solutions",
@@ -5637,35 +5441,7 @@
     "posted": "2026-04-10T10:05:24.805Z"
   },
   {
-    "slug": "smartrecruiters-744000119555597",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Expert/e SLI/MCO - Défense & Sécurité - Le Plessis Robinson",
-    "applyUrl": "",
-    "location": "Le Plessis-Robinson, IDF, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "bid_management",
-      "technical_sales",
-      "solution_architecture",
-      "cybersecurity",
-      "critical_systems",
-      "defense_security",
-      "customer_engagement",
-      "proposal_writing",
-      "risk_management",
-      "project_management",
-      "client_relations",
-      "business_development",
-      "technical_expertise",
-      "service_delivery",
-      "infrastructure_management"
-    ],
-    "posted": "2026-04-09T09:11:38.273Z"
-  },
-  {
-    "slug": "ashby-6de7de9a-ae64-4e9b-9fa2-b7d219c4835e",
+    "dedupeKey": "ashby:6de7de9a-ae64-4e9b-9fa2-b7d219c4835e",
     "company": "Sift",
     "companyDomain": "siftstack.com",
     "role": "GTM Engineer",
@@ -5688,7 +5464,7 @@
     "posted": "2026-04-08T20:09:49.541Z"
   },
   {
-    "slug": "workday-r166382",
+    "dedupeKey": "workday:R166382",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Product Marketing Manager and GenAI Strategist",
@@ -5712,7 +5488,7 @@
     "posted": "2026-04-07T00:00:00.000Z"
   },
   {
-    "slug": "jazzhr-bfmeov1cik",
+    "dedupeKey": "jazzhr:bFmeOV1cIK",
     "company": "H2O.ai",
     "companyDomain": "h2o.ai",
     "role": "Technical Program Manager",
@@ -5738,7 +5514,7 @@
     "posted": "2026-04-02T00:00:00.000Z"
   },
   {
-    "slug": "ashby-8801746a-61e2-4aff-8796-4335bc9a83f1",
+    "dedupeKey": "ashby:8801746a-61e2-4aff-8796-4335bc9a83f1",
     "company": "Glimpse",
     "companyDomain": "tryglimpse.com",
     "role": "GTM Engineer",
