@@ -1,271 +1,237 @@
-<a name="top"></a>
-# GTM Engineer Jobs (2026) 🚀
+# GTM Engineer Roles 🚀
 
-![Roles](https://img.shields.io/badge/192%20live%20roles-ff5b29) ![Updated](https://img.shields.io/badge/updated-2026.06.30-00A86B) [![Stars](https://img.shields.io/github/stars/landedjobs/gtm-engineer-jobs?style=social)](https://github.com/landedjobs/gtm-engineer-jobs)
+> An open, **auto-updated** list of GTM Engineer roles. Updated 2026-07-01 · **192 live roles**.
+> Curated by [Landed](https://landed.jobs) — scout, get **referred**, prep, and land AI-native jobs.
 
-> An open, **auto-updated** list of **192** GTM Engineer roles at AI-native companies — refreshed every few days (updated 2026-06-30).
-> Curated by [Landed](https://landed.jobs) — scout roles, get **referred**, prep, and land the job.
-
-⭐ **Star this repo** to keep this list handy.
-
-**Legend:** 🌐 Remote · Level = seniority · Top skills extracted from each posting · Posted = age · the **Apply** button opens the role.
+⭐ **Star this repo** to track new GTM Engineer roles — it refreshes regularly.
 
 ---
 
-## What is a GTM Engineer?
+## What is a GTM Engineer? (60-second version)
 
 A **GTM Engineer** automates go-to-market with code + AI — outbound, enrichment, revenue workflows. The technical evolution of the marketer/SDR; high demand, few qualified people.
 
 ---
 
-## Jump to
+## Live GTM Engineer roles
 
-- [🧠 Senior & Staff+](#senior) · **125**
-- [⚙️ Mid-level](#mid) · **65**
-- [🌱 Junior & New Grad](#junior) · **1**
-- [🎓 Internships](#intern) · **1**
+| Company | Role | Location | Type | Posted |
+|---|---|---|---|---|
+| **Waymo** | [Technical Lead Manager, Rider Growth ](#) | Mountain View, CA, USA; San Francisco, CA, USA | Full-time | 2026-06-29T23:20:26.000Z |
+| **Waymo** | [Senior Business Intelligence Analyst, Growth](#) | Mountain View, CA, US; San Francisco, CA, US | Full-time | 2026-06-29T21:27:53.000Z |
+| **Asana** | [AI Strategist, Service Management Implementation](#) | New York City | Full-time | 2026-06-29T16:50:57.000Z |
+| **CoreWeave** | [Senior Business Systems Engineer - GTM Systems (Salesforce)](#) | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | Full-time | 2026-06-29T16:49:59.000Z |
+| **CoreWeave** | [Senior Developer Relations Engineer - Marimo](#) | San Francisco, California  | Full-time | 2026-06-29T16:49:59.000Z |
+| **CoreWeave** | [Solution Specialist, Infrastructure](#) | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX | Full-time | 2026-06-29T16:49:59.000Z |
+| **CrowdStrike** | [Customer Value Architect (Remote, FRA)](#) | France - Remote | Full-time | 2026-06-29T00:00:00.000Z |
+| **Palo Alto Networks** | [Director, IT Product Management - GTM AI Apps](#) | Office - USA - CA - Headquarters | Full-time | 2026-06-29T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Developer Relations Manager - Healthcare](#) | Israel, Tel Aviv | Full-time | 2026-06-29T00:00:00.000Z |
+| **Databricks** | [Sr. Director, Field Engineering (Lakebase)](#) | United States | Full-time | 2026-06-27T00:17:37.000Z |
+| **Databricks** | [Sr. Manager, Field Engineering](#) | Munich, Germany | Full-time | 2026-06-27T00:17:37.000Z |
+| **Databricks** | [Sr. Manager, Field Engineering Qatar&Africa](#) | London, United Kingdom; Paris, France | Full-time | 2026-06-27T00:17:36.000Z |
+| **Databricks** | [Staff Partner Engineer, Azure ](#) | New York City, New York; San Francisco, California; Seattle, Washington | Full-time | 2026-06-27T00:17:35.000Z |
+| **Databricks** | [Field Engineering, AI/ML Product Specialist](#) | Singapore | Full-time | 2026-06-27T00:17:34.000Z |
+| **Databricks** | [Sr. Engagement Manager](#) | Sydney, Australia | Full-time | 2026-06-27T00:17:34.000Z |
+| **Databricks** | [Sr. Developer Advocate - Neon](#) | San Francisco, California | Full-time | 2026-06-27T00:17:33.000Z |
+| **Databricks** | [Sr. Manager, Capability Engineering & AI Adoption — APJ](#) | Sydney, Australia | Full-time | 2026-06-27T00:17:33.000Z |
+| **Databricks** | [Sr. Manager, Capability Engineering & AI Adoption — APJ](#) | Melbourne, Australia | Full-time | 2026-06-27T00:17:33.000Z |
+| **Databricks** | [Sr. Manager, Capability Engineering & AI Adoption — APJ](#) | Singapore | Full-time | 2026-06-27T00:17:33.000Z |
+| **Databricks** | [Sr. Manager, Field Engineering - Public Sector (Intel, Navy, Air Force)](#) | Maryland; Virginia; Washington, D.C. | Full-time | 2026-06-27T00:17:33.000Z |
+| **Databricks** | [Sr. Technical Marketing Engineer - Lakebase/Apps](#) | United States | Full-time | 2026-06-27T00:17:32.000Z |
+| **Databricks** | [Field CTO - America Industries](#) | United States | Full-time | 2026-06-27T00:17:31.000Z |
+| **Databricks** | [Lead Adoption Architect - Agent Bricks ](#) | United States | Full-time | 2026-06-27T00:17:31.000Z |
+| **Lottie** | [Senior Growth Engineer - Remote](#) | London | Full-time | 2026-06-26T23:18:18.230Z |
+| **Lottie** | [Senior Growth Engineer ](#) | London | Full-time | 2026-06-26T23:15:52.290Z |
+| **Tebra** | [Head of Growth](#) | United States - Remote | Full-time | 2026-06-26T22:03:55.000Z |
+| **Stripe** | [Growth Engineer](#) | New York, NY | Full-time | 2026-06-26T21:05:48.000Z |
+| **Stripe** | [Full Stack Engineer, Growth](#) | Singapore | Full-time | 2026-06-26T21:05:44.000Z |
+| **Stripe** | [Product Manager, Growth AI Outreach Motion ](#) | Toronto, Remote- Canada | Full-time | 2026-06-26T21:05:36.000Z |
+| **Stripe** | [Implementation Specialist, GTM Accelerate](#) | Dublin | Full-time | 2026-06-26T21:05:30.000Z |
+| **Emanate** | [Growth Engineer](#) | San Francisco | Full-time | 2026-06-26T20:18:59.583Z |
+| **Pennylane** | [AI & Ops Automation](#) | Paris offices | Full-time | 2026-06-26T16:49:18.390Z |
+| **ButterflyMX** | [GTM Engineer ](#) | US Remote  | Full-time | 2026-06-26T15:16:35.433Z |
+| **Sphere, Inc.** | [GTM Engineer](#) | San Francisco HQ | Full-time | 2026-06-26T01:36:39.573Z |
+| **Cloudera** | [Global AI Solutions Director - Financial Services](#) | USA > New York > New York City | Full-time | 2026-06-26T00:00:00.000Z |
+| **Aptivio** | [Application Engineer Industrial & Robotics / Ingénieur d’Applications Industrie & Robotique (H/F)](#) | Torino, Italy | Full-time | 2026-06-26T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Developer Relations Manager – Cloud Provider AI Factory](#) | US, CA, Remote | Full-time | 2026-06-26T00:00:00.000Z |
+| **Spring Health** | [Director, Lifecycle Marketing](#) | New York (Hybrid) | Full-time | 2026-06-25T14:38:25.000Z |
+| **CodeRabbit** | [Growth Product Manager](#) | Bengaluru | Full-time | 2026-06-25T08:14:03.772Z |
+| **Advatix, Inc.** | [Head of Growth (E-Commerce & Performance Marketing)](#) | New York City, NY | Full-time | 2026-06-25T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Developer Relations Manager - Omniverse](#) | US, CA, Santa Clara | Full-time | 2026-06-25T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Go-to-Market Product Manager - Customer Ecosystem and ODM Enablement](#) | US, CA, Santa Clara | Full-time | 2026-06-25T00:00:00.000Z |
+| **Waymo** | [Product Manager, Growth](#) | Mountain View, CA, USA; San Francisco, CA, USA | Full-time | 2026-06-24T22:55:23.000Z |
+| **Basis** | [Growth Engineer](#) | New York Office | Full-time | 2026-06-24T21:10:35.458Z |
+| **Lillio** | [Demand Generation Manager](#) | Canada, Remote | Full-time | 2026-06-24T19:58:28.257Z |
+| **Stability AI** | [Senior Product Engineer, Growth & Lifecycle Infrastructure - Music & Audio](#) | Los Angeles, CA or Remote (United States)  | Full-time | 2026-06-24T16:18:24.000Z |
+| **Hologram** | [GTM Engineer](#) | Remote - United States Only | Full-time | 2026-06-24T14:34:22.000Z |
+| **Rippling** | [GTM Engineer](#) | Hybrid (New York, New York, US) | Full-time | 2026-06-24T13:52:21.170Z |
+| **SailPoint** | [Staff Software Engineer, Developer Relations](#) | United States | Full-time | 2026-06-24T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Solutions Architect, Data Platform GTM](#) | US, CA, Santa Clara | Full-time | 2026-06-24T00:00:00.000Z |
+| **Addi** | [GTM Engineer](#) | Bogotá | Full-time | 2026-06-23T14:33:03.968Z |
+| **Lovable** | [GTM Engineering Lead](#) | Boston | Full-time | 2026-06-23T13:55:50.979Z |
+| **Zoom** | [Principa AI Product Manager - AI Agent Product Growth](#) | Seattle (WA) | Full-time | 2026-06-23T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Technical Marketing Engineer - EDA and Semiconductor](#) | US, CA, Santa Clara | Full-time | 2026-06-23T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Technical Lead, GenAI - Autonomous Vehicles](#) | US, CA, Santa Clara | Full-time | 2026-06-23T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Developer Relationship Manager - Autonomous Vehicles](#) | US, CA, Santa Clara | Full-time | 2026-06-23T00:00:00.000Z |
+| **Pebl** | [Engineering Manager, Growth](#) |  Palo Alto, CA  | Full-time | 2026-06-22T20:16:50.776Z |
+| **Agriplace** | [Growth Marketing Internship - Growing Impact Scale Up](#) | Amsterdam, 1012 SH | Full-time | 2026-06-22T08:58:09.000Z |
+| **Roquette** | [Capsules Business Development Scientist (M/F)](#) | Bomlitz | Full-time | 2026-06-22T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Developer Relations Manager, Energy - Power Generation Ecosystem](#) | US, CA, Santa Clara | Full-time | 2026-06-22T00:00:00.000Z |
+| **Polymarket** | [Growth Engineer](#) | New York | Full-time | 2026-06-18T17:44:13.133Z |
+| **COMPASS Pathways** | [HEOR Science Liaison](#) | United States | Full-time | 2026-06-18T09:27:09.000Z |
+| **Fonoa** | [Revenue AI & Automation Architect](#) | London, United Kingdom | Full-time | 2026-06-18T08:57:17.657Z |
+| **Granola** | [GTM Engineer](#) | London | Full-time | 2026-06-17T12:54:10.804Z |
+| **Workday** | [Principal Developer Relations Engineer](#) | USA, CA, Pleasanton | Full-time | 2026-06-17T00:00:00.000Z |
+| **Workday** | [Senior Developer Relations Engineer](#) | USA, CA, Pleasanton | Full-time | 2026-06-17T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Ecosystem Developer Relationships Manager](#) | Vietnam, Ho Chi Minh City | Full-time | 2026-06-17T00:00:00.000Z |
+| **Wealth** | [GTM Engineer](#) | Phoenix, AZ | Full-time | 2026-06-16T12:54:20.624Z |
+| **ELSA** | [Global CRM Manager](#) | India, IN | Full-time | 2026-06-16T03:56:41.000Z |
+| **Spring Health** | [Senior Product Manager, Member Growth](#) | Seattle, WA (hybrid) | Full-time | 2026-06-15T16:26:18.000Z |
+| **Spring Health** | [Senior Product Manager, Member Growth](#) | San Francisco, CA (Hybrid) | Full-time | 2026-06-15T16:24:12.000Z |
+| **2100 NVIDIA USA** | [Engagement Tech Lead, Developer Relations - AI Agents](#) | US, CA, Santa Clara | Full-time | 2026-06-15T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Developer Advocate Engineer](#) | US, CA, Santa Clara | Full-time | 2026-06-13T00:00:00.000Z |
+| **CrowdStrike** | [AI Solutions Strategist, GTM Applications (Remote)](#) | USA - Remote, CA | Full-time | 2026-06-12T00:00:00.000Z |
+| **Justworks** | [GTM Engineer](#) | New York, New York | Full-time | 2026-06-11T16:36:14.000Z |
+| **Palo Alto Networks** | [Industry Principal, Artificial Intelligence](#) | Office - Singapore - Singapore | Full-time | 2026-06-11T00:00:00.000Z |
+| **Scribe** | [GTM Engineer](#) | San Francisco | Full-time | 2026-06-10T22:03:55.628Z |
+| **Brex** | [Engineering Manager, GTM Engineering ](#) | New York, New York, United States | Full-time | 2026-06-10T17:59:16.000Z |
+| **Brex** | [Engineering Manager, GTM Engineering ](#) | Seattle, Washington, United States | Full-time | 2026-06-10T17:59:16.000Z |
+| **Brex** | [Staff Product Manager, Growth](#) | Vancouver, British Columbia, Canada | Full-time | 2026-06-10T17:59:16.000Z |
+| **Brex** | [Staff Product Manager, Growth](#) | Seattle, Washington, United States | Full-time | 2026-06-10T17:59:16.000Z |
+| **Brex** | [Staff Product Manager, Growth](#) | New York, New York, United States | Full-time | 2026-06-10T17:59:16.000Z |
+| **Brex** | [Staff Product Manager, Growth](#) | San Francisco, California, United States | Full-time | 2026-06-10T17:59:16.000Z |
+| **Brex** | [Engineering Manager, GTM Engineering ](#) | Vancouver, British Columbia, Canada | Full-time | 2026-06-10T17:59:16.000Z |
+| **Brex** | [Engineering Manager, GTM Engineering ](#) | San Francisco, California, United States | Full-time | 2026-06-10T17:59:16.000Z |
+| **Macroscope** | [GTM Engineer](#) | San Francisco | Full-time | 2026-06-10T17:35:26.782Z |
+| **Pinterest** | [Staff Software Engineer, Growth AI](#) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Los Angeles, CA, US | Full-time | 2026-06-10T17:14:47.000Z |
+| **AlphaSense** | [Senior Manager, GTM Engineering](#) | Remote - Canada | Full-time | 2026-06-10T15:56:34.000Z |
+| **AlphaSense** | [Senior Manager, GTM Engineering](#) | New York, New York, United States | Full-time | 2026-06-10T15:56:32.000Z |
+| **Restaurant365** | [Senior Growth Marketing Engineer](#) | Irvine, CA | Full-time | 2026-06-10T10:03:30.953Z |
+| **Joko** | [VP Growth](#) | Paris | Full-time | 2026-06-10T07:22:39.977Z |
+| **Sigma Computing** | [Agentic Marketing Engineer ](#) | San Francisco, CA | Full-time | 2026-06-10T05:35:52.000Z |
+| **Frame.io** | [Creator Evangelist](#) | Remote California | Full-time | 2026-06-10T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Developer Relations Manager Automotive](#) | Germany, Remote | Full-time | 2026-06-10T00:00:00.000Z |
+| **Skydio** | [GTM Engineer, Post-Sales](#) | San Mateo, California, United States | Full-time | 2026-06-09T19:20:59.754Z |
+| **Clay** | [GTM Engineer - Systems and Infrastructure](#) | New York | Full-time | 2026-06-09T13:43:28.295Z |
+| **TravelPerk** | [Senior GTM Engineer](#) | London | Full-time | 2026-06-09T12:52:27.384Z |
+| **TravelPerk** | [Senior GTM Engineer](#) | Barcelona | Full-time | 2026-06-09T12:49:10.748Z |
+| **Metabase** | [Demand Generation](#) | Remote-US | Full-time | 2026-06-08T16:45:59.089Z |
+| **Blitzy** | [Software Developer Growth Engineer](#) | Cambridge, MA | Full-time | 2026-06-05T23:37:18.508Z |
+| **Aikido Security** | [Search Ads Specialist](#) | Ghent, Oost-Vlaanderen, Belgium | Full-time | 2026-06-05T07:58:24.000Z |
+| **Gojob** | [Head of AI Solutions Engineering H/F](#) | Paris | Full-time | 2026-06-05T03:13:32.870Z |
+| **Clera** | [Founding GTM Engineer](#) | San Francisco | Full-time | 2026-06-05T02:29:50.363Z |
+| **2100 NVIDIA USA** | [Senior GenAI Engagement Lead, Partner Platforms](#) | US, CA, Santa Clara | Full-time | 2026-06-05T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Principal GenAI Engagement Lead, Partner Platforms](#) | US, CA, Santa Clara | Full-time | 2026-06-05T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior GenAI Technical Lead, Partner Platforms](#) | US, CA, Santa Clara | Full-time | 2026-06-05T00:00:00.000Z |
+| **23andMe** | [Growth Designer & Video Editor (Contract)](#) | Palo Alto (HQ) | Full-time | 2026-06-04T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Senior Developer Relations Manager, ISV](#) | UK, Remote | Full-time | 2026-06-04T00:00:00.000Z |
+| **Pretto** | [Product Manager Growth H/F](#) | Paris, Île-de-France | Full-time | 2026-06-03T12:57:55.956Z |
+| **Yext** | [Senior Salesforce Developer](#) | Hyderabad, India | Full-time | 2026-06-02T14:57:07.000Z |
+| **Zynga** | [Growth Manager(Social Media + Community Management)](#) | Bengaluru, India | Full-time | 2026-06-02T12:08:28.000Z |
+| **Aptivio** | [Application Engineering Supervisor](#) | Troy, MI - USA | Full-time | 2026-06-02T00:00:00.000Z |
+| **Salesforce** | [Growth Lifecycle Automation Marketing Senior Manager](#) | Washington - Seattle | Full-time | 2026-06-02T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Technical Marketing Engineer - Physical AI for Healthcare](#) | US, CA, Santa Clara | Full-time | 2026-06-02T00:00:00.000Z |
+| **AKUR8** | [Senior Life Actuary](#) | London | Full-time | 2026-06-01T13:24:38.922Z |
+| **SailPoint** | [Agentic AI Technologist](#) | United States | Full-time | 2026-06-01T00:00:00.000Z |
+| **Salesforce** | [CTO  - Agentic Process Automation & Intelligence](#) | Illinois - Chicago | Full-time | 2026-06-01T00:00:00.000Z |
+| **Joko** | [Growth Product Manager (senior level)](#) | Paris | Full-time | 2026-05-29T08:22:12.593Z |
+| **2100 NVIDIA USA** | [Developer Advocate – Distributed Training](#) | US, CA, Santa Clara | Full-time | 2026-05-29T00:00:00.000Z |
+| **Checkatrade** | [Trade Growth Lead (Maternity Cover)](#) | Moorgate London | Full-time | 2026-05-28T20:55:20.928Z |
+| **Lighthouse** | [Senior AI Solutions Engineer for Revenue & Go-To-Market](#) | Barcelona, Spain | Full-time | 2026-05-28T06:55:23.000Z |
+| **Lighthouse** | [Senior AI Solutions Engineer for Revenue & Go-To-Market](#) | Ghent, Belgium | Full-time | 2026-05-28T06:55:22.000Z |
+| **Vanta** | [Senior Software Engineer, GTM Engineering](#) | Remote U.S. | Full-time | 2026-05-28T00:37:12.969Z |
+| **Smarking** | [Director, Lifecycle Marketing - 12 month FTC](#) | London, England, United Kingdom | Full-time | 2026-05-28T00:00:00.000Z |
+| **2100 NVIDIA USA** | [Technical Marketing Engineer](#) | US, CA, Santa Clara | Full-time | 2026-05-28T00:00:00.000Z |
+| **Saviynt** | [Customer Success AI Architect](#) | Remote US | Full-time | 2026-05-27T17:00:29.811Z |
+| **SplitMetrics** | [Growth Marketing Manager](#) | Remote - Europe Time Zones | Full-time | 2026-05-27T08:47:24.134Z |
+| **2100 NVIDIA USA** | [Senior Technical Product Marketing Engineer](#) | US, CA, Santa Clara | Full-time | 2026-05-27T00:00:00.000Z |
+| **NewsBreak** | [Growth Intelligence Engineer (Ads & Revenue)](#) | Mountain View, California, United States | Full-time | 2026-05-26T21:16:44.000Z |
+| **Gushwork** | [Campaign Manager](#) | Bengaluru | Full-time | 2026-05-26T10:22:06.999Z |
+| **Zynga** | [Senior UA Manager](#) | London, UK | Full-time | 2026-05-26T09:53:50.000Z |
+| **Salesforce** | [Experience Engineer Headless360](#) | Japan - Tokyo | Full-time | 2026-05-25T00:00:00.000Z |
+| **Speechify** | [Go-to-Market Engineer](#) | Remote | Full-time | 2026-05-22T16:00:51.000Z |
+| **Siena** | [Head of Growth](#) | New York | Full-time | 2026-05-22T01:18:15.726Z |
+| **Palo Alto Networks** | [Principal Software Engineer, Go-To-Market (GTM) and CX Products](#) | Office - USA - CA - Headquarters | Full-time | 2026-05-22T00:00:00.000Z |
+| **Juniper Square** | [GTM Engineer](#) | Americas (USA or Canada) | Full-time | 2026-05-21T19:00:30.821Z |
+| **Samba TV** | [Marketing Engineer](#) | San Francisco, California | Full-time | 2026-05-19T12:39:45.112Z |
+| **Faraday Future** | [Data-Driven Growth Specialist ](#) | El Segundo, California, United States | Full-time | 2026-05-19T01:23:10.000Z |
+| **Snowflake** | [GTM Engineer - ABM, Advertising and Growth Marketing](#) | US-CA-Menlo Park | Full-time | 2026-05-18T23:04:51.122Z |
+| **Clay** | [GTM Engineer - Seller Efficiency](#) | New York | Full-time | 2026-05-18T20:17:17.489Z |
+| **Clay** | [GTM Engineer - Ecosystem](#) | New York | Full-time | 2026-05-18T20:15:02.379Z |
+| **Clay** | [GTM Engineer - CX](#) | New York | Full-time | 2026-05-18T20:11:54.993Z |
+| **Valiantys Group** | [Director, AI-Enabled DevOps Transformation](#) | Remote, North America | Full-time | 2026-05-18T08:14:46.311Z |
+| **Salesforce** | [Principal Data and AI Architect](#) | Spain - Madrid | Full-time | 2026-05-18T00:00:00.000Z |
+| **Airtable** | [GTM Engineer](#) | San Francisco, CA; New York, NY | Full-time | 2026-05-15T19:47:35.000Z |
+| **DISQO** | [Staff / Sr. Staff Software Engineer, GTM Innovation](#) | Los Angeles, CA | Full-time | 2026-05-14T17:11:47.151Z |
+| **Palo Alto Networks** | [Sr IT Product Manager - GTM](#) | Office - USA - CA - Headquarters | Full-time | 2026-05-13T00:00:00.000Z |
+| **Palo Alto Networks** | [Senior Manager, Technical Marketing Engineer](#) | Office - USA - CA - Headquarters | Full-time | 2026-05-13T00:00:00.000Z |
+| **iwoca** | [Growth Marketing Manager](#) | London | Full-time | 2026-05-12T13:28:48.994Z |
+| **Joko** | [User Acquisition Manager](#) | Paris | Full-time | 2026-05-11T12:44:42.273Z |
+| **Moloco** | [Senior Growth Manager ](#) | Tokyo, Japan | Full-time | 2026-05-11T07:29:06.000Z |
+| **Gushwork** | [Founder's Office (New Products)](#) | Bengaluru | Full-time | 2026-05-11T01:03:34.864Z |
+| **Frame.io** | [Firefly Foundry Field CTO, Brands & Agency](#) | New York | Full-time | 2026-05-11T00:00:00.000Z |
+| **Airwallex** | [Engineering Lead, Growth](#) | SG - Singapore | Full-time | 2026-05-08T08:49:39.614Z |
+| **Moloco** | [Growth Manager ](#) | Tokyo, Japan | Full-time | 2026-05-08T06:32:05.000Z |
+| **CrowdStrike** | [Customer Value Architect - Enterprise (West, Remote)](#) | USA - Remote, CA | Full-time | 2026-05-07T00:00:00.000Z |
+| **OakNorth** | [Organic Growth Specialist - SEO/AEO](#) | London | Full-time | 2026-05-05T11:01:18.122Z |
+| **Clockwork Systems** | [Revenue Operations Lead/GTM Engineer ](#) | On Site, Palo Alto, California | Full-time | 2026-05-05T05:01:36.000Z |
+| **Recorded Future** | [Marketing Systems & AI Automation Manager](#) | Boston, MA | Full-time | 2026-05-04T13:45:51.000Z |
+| **Selector AI** | [Technical Marketing Engineer](#) | Remote | Full-time | 2026-05-03T18:30:00.000Z |
+| **Anrok** | [GTM Engineer](#) | San Francisco | Full-time | 2026-05-02T04:37:42.326Z |
+| **Socure** | [Head of Growth Engineering](#) | Hybrid - San Francisco, CA | Full-time | 2026-05-01T17:04:31.282Z |
+| **iwoca** | [Performance Marketing Executive - Direct Acquisition / Performance Marketing](#) | London | Full-time | 2026-05-01T15:07:54.799Z |
+| **Samba TV** | [Growth Marketer, Pipeline Development](#) | Los Angeles, California | Full-time | 2026-05-01T13:07:59.773Z |
+| **Talos** | [GTM Engineer ](#) | New York | Full-time | 2026-04-30T16:23:29.095Z |
+| **LangChain** | [GTM Engineer](#) | New York, NY | Full-time | 2026-04-29T19:21:59.660Z |
+| **Playground** | [Founding GTM Engineer](#) | New York City | Full-time | 2026-04-29T15:54:56.613Z |
+| **Eleos Health** | [AI Builder (US, Remote)](#) | US | Full-time | 2026-04-29T15:38:43.000Z |
+| **Mutiny** | [GTM Engineer](#) | In person in New York City | Full-time | 2026-04-28T22:11:40.508Z |
+| **Moloco** | [Senior Strategic Growth Manager (Commerce Media)](#) | Seoul, Korea | Full-time | 2026-04-28T04:44:40.000Z |
+| **nPlan** | [VP of Growth](#) | London, GB | Full-time | 2026-04-23T08:42:21.000Z |
+| **Baseten** | [GTM Engineer ](#) | San Francisco | Full-time | 2026-04-22T00:03:23.260Z |
+| **Anaplan** | [Salesforce Solution Architect](#) | Gurugram, India | Full-time | 2026-04-21T17:52:40.000Z |
+| **Saviynt** | [Marketing Ops AI Agent Engineer](#) | Remote US | Full-time | 2026-04-21T15:19:50.401Z |
+| **Moloco** | [Growth Manager - Advertiser & Agency (Commerce Media)](#) | Seoul, Korea | Full-time | 2026-04-21T03:41:01.000Z |
+| **Ironclad** | [GTM Engineer](#) | San Francisco | Full-time | 2026-04-17T19:00:04.161Z |
+| **Dust** | [Growth Engineer](#) | San Francisco | Full-time | 2026-04-17T16:01:14.032Z |
+| **Parloa** | [GTM Engineer](#) | Remotely in the USA | Full-time | 2026-04-16T14:51:15.000Z |
+| **Hilbert** | [GTM Engineer / RevOps Lead](#) | San Francisco | Full-time | 2026-04-15T14:34:45.562Z |
+| **Pennylane** | [Fullstack Software Engineer RoR/JS W/M](#) | All France (remote) | Full-time | 2026-04-15T13:14:53.103Z |
+| **Moloco** | [Growth Manager (Commerce Media)](#) | Seoul, Korea | Full-time | 2026-04-14T03:13:14.000Z |
+| **Frame.io** | [Principal Value Consultant Firefly Enterprise Solutions](#) | Remote Germany | Full-time | 2026-04-14T00:00:00.000Z |
+| **Autodesk** | [Software Architect, Sales & Success](#) | San Francisco, CA, USA | Full-time | 2026-04-14T00:00:00.000Z |
+| **Creative Fabrica** | [Faceless Video Creator](#) | Remote | Full-time | 2026-04-13T09:26:22.000Z |
+| **Salesforce** | [Slack Growth Marketing Senior Manager](#) | Japan - Tokyo | Full-time | 2026-04-13T00:00:00.000Z |
+| **Airwallex** | [Director GTM Engineering](#) | US - San Francisco | Full-time | 2026-04-10T22:30:59.112Z |
+| **WorkOS** | [GTM Engineer](#) | United States & Canada | Full-time | 2026-04-10T16:06:27.435Z |
+| **Gojob** | [Head of AI Solutions](#) | Aix-en-Provence | Full-time | 2026-04-10T10:05:24.805Z |
+| **Sift** | [GTM Engineer](#) | Marina Del Rey, CA | Full-time | 2026-04-08T20:09:49.541Z |
+| **Frame.io** | [Product Marketing Manager and GenAI Strategist](#) | San Jose | Full-time | 2026-04-07T00:00:00.000Z |
+| **H2O.ai** | [Technical Program Manager](#) | Charlotte, NC | Full-time | 2026-04-02T00:00:00.000Z |
+| **Glimpse** | [GTM Engineer](#) | NYC HQ | Full-time | 2026-04-01T18:43:39.265Z |
 
----
-
-<a name="senior"></a>
-## 🧠 Senior & Staff+ · 125
-
-| Company | Role | Location | Level | Top skills | Posted | Apply |
-|---|---|---|---|---|---|---|
-| **[Waymo](https://waymo.com)** | Senior Business Intelligence Analyst, Growth | Mountain View, CA, US; San Francisco, CA, US | Senior | `Python` `Sql` `Data Modeling` | today | <a href="https://go.landed.jobs/RhSB9v" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[CoreWeave](https://coreweave.com)** | Senior Business Systems Engineer - GTM Systems (Salesforce) | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | Senior | `Salesforce` `Sales Cloud` `Revenue Cloud` | today | <a href="https://go.landed.jobs/LE36CQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[CoreWeave](https://coreweave.com)** | Senior Developer Relations Engineer - Marimo | San Francisco, California | Senior | `Python` `Developer Relations` `Community Growth` | today | <a href="https://go.landed.jobs/WYFrnX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[CoreWeave](https://coreweave.com)** | Solution Specialist, Infrastructure | 🌐 Remote | Senior | `MLOps` `LLM Observability` `Experiment Tracking` | today | <a href="https://go.landed.jobs/b4gbtd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[CrowdStrike](https://crowdstrike.com)** | Customer Value Architect (Remote, FRA) | 🌐 Remote | Senior | `Customer Success` `Value Realization` `ROI Analysis` | 1d | <a href="https://go.landed.jobs/pHEe6X" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Palo Alto Networks](https://paloaltonetworks.com)** | Director, IT Product Management - GTM AI Apps | Office - USA - CA - Headquarters | Exec | `Product Management` `Go To Market Strategy` `AI Strategy` | 1d | <a href="https://go.landed.jobs/9MxNWV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Developer Relations Manager - Healthcare | Israel, Tel Aviv | Senior | `Developer Relations` `Technical Partnerships` `Ecosystem Engagement` | 1d | <a href="https://go.landed.jobs/g3ZSYd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Director, Field Engineering (Lakebase) | United States | Exec | `Field Engineering` `Pre Sales` `Customer Success` | 3d | <a href="https://go.landed.jobs/sdzmWf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Manager, Field Engineering | Munich, Germany | Exec | `Field Engineering` `Solutions Architecture` `Pre Sales` | 3d | <a href="https://go.landed.jobs/DrpYvc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Manager, Field Engineering Qatar&Africa | London, United Kingdom; Paris, France | Senior | `Solutions Architecture` `Sales Engineering` `Team Leadership` | 3d | <a href="https://go.landed.jobs/3tBmFm" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Staff Partner Engineer, Azure | New York City, New York; San Francisco, California; Seattle, Washington | Staff | `Azure` `Cloud Architecture` `Partner Engineering` | 3d | <a href="https://go.landed.jobs/sVtXZa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Field Engineering, AI/ML Product Specialist | Singapore | Senior | `Llm` `Agents` `Rag` | 3d | <a href="https://go.landed.jobs/UykwVr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Engagement Manager | Sydney, Australia | Senior | `Customer Success` `Professional Services` `Solution Architecture` | 3d | <a href="https://go.landed.jobs/2Rb9W3" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Developer Advocate - Neon | 🌐 Remote | Senior | `Developer Advocacy` `Technical Content Creation` `Community Engagement` | 3d | <a href="https://go.landed.jobs/cSzCvA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Manager, Capability Engineering & AI Adoption — APJ | 🌐 Remote | Senior | `Generative Ai` `Agentic Workflows` `Llm` | 3d | <a href="https://go.landed.jobs/6avKy7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Manager, Capability Engineering & AI Adoption — APJ | 🌐 Remote | Senior | `Generative Ai` `Agentic Workflows` `Llm` | 3d | <a href="https://go.landed.jobs/S44mYH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Manager, Capability Engineering & AI Adoption — APJ | 🌐 Remote | Senior | `Generative Ai` `Agentic Workflows` `Llm` | 3d | <a href="https://go.landed.jobs/FV9A8e" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Manager, Field Engineering - Public Sector (Intel, Navy, Air Force) | Maryland; Virginia; Washington, D.C. | Exec | `Generative Ai` `Data Warehousing` `Big Data` | 3d | <a href="https://go.landed.jobs/4nLqZR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Sr. Technical Marketing Engineer - Lakebase/Apps | 🌐 Remote | Senior | `Postgres` `Sql` `Python` | 3d | <a href="https://go.landed.jobs/c49Ayx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Field CTO - America Industries | United States | Exec | `Data Strategy` `Ai Strategy` `Cloud Architecture` | 3d | <a href="https://go.landed.jobs/cf7RLC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Databricks](https://databricks.com)** | Lead Adoption Architect - Agent Bricks | United States | Senior | `Product Adoption` `Go To Market Strategy` `Product Management` | 3d | <a href="https://go.landed.jobs/tG85xN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Lottie](https://lottie.org)** | Senior Growth Engineer - Remote | 🌐 Remote | Senior | `Python` `Javascript` `React` | 3d | <a href="https://go.landed.jobs/KNMHTR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Lottie](https://lottie.org)** | Senior Growth Engineer | London | Senior | `Python` `Javascript` `React` | 3d | <a href="https://go.landed.jobs/qFPVCG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Tebra](https://tebra.com)** | Head of Growth | 🌐 Remote | Senior | `Product Led Growth` `Go To Market Strategy` `Agentic Stacks` | 3d | <a href="https://go.landed.jobs/Ds9ekQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Stripe](https://stripe.com)** | Growth Engineer | New York, NY | Senior | `Ruby` `Javascript` `Typescript` | 3d | <a href="https://go.landed.jobs/HQC7Cx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Stripe](https://stripe.com)** | Product Manager, Growth AI Outreach Motion | Toronto, Remote- Canada | Senior | `Product Management` `AI Powered Products` `Conversational AI` | 3d | <a href="https://go.landed.jobs/aeutYZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[ButterflyMX](https://butterflymx.com)** | GTM Engineer | 🌐 Remote | Senior | `Python` `Llm` `Ai` | 4d | <a href="https://go.landed.jobs/SBA7em" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Cloudera](https://cloudera.com)** | Global AI Solutions Director - Financial Services | USA > New York > New York City | Exec | `Ai Strategy` `Llm` `Rag Architecture` | 4d | <a href="https://go.landed.jobs/Cthugn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Developer Relations Manager – Cloud Provider AI Factory | US, CA, Remote | Senior | `Developer Relations` `Technical Advocacy` `Cloud Hosting` | 4d | <a href="https://go.landed.jobs/SEeKbY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Spring Health](https://springhealth.com)** | Director, Lifecycle Marketing | New York (Hybrid) | Exec | `Lifecycle Marketing` `Growth Marketing` `Marketing Automation` | 5d | <a href="https://go.landed.jobs/stnf8C" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[CodeRabbit](https://coderabbit.ai)** | Growth Product Manager | Bengaluru | Senior | `Product Management` `Growth Hacking` `Product Led Growth` | 5d | <a href="https://go.landed.jobs/C4sv8k" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Advatix, Inc.](https://advatix.com)** | Head of Growth (E-Commerce & Performance Marketing) | New York City, NY | Exec | `Performance Marketing` `Growth Strategy` `Customer Acquisition` | 5d | <a href="https://go.landed.jobs/cCDmgb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Developer Relations Manager - Omniverse | US, CA, Santa Clara | Senior | `Developer Relations` `Technical Evangelism` `Nvidia Omniverse` | 5d | <a href="https://go.landed.jobs/Aafxeq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Go-to-Market Product Manager - Customer Ecosystem and ODM Enablement | US, CA, Santa Clara | Senior | `Product Management` `Go To Market Strategy` `Hardware Product Development` | 5d | <a href="https://go.landed.jobs/4ZHY8p" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Stability AI](https://stability.ai)** | Senior Product Engineer, Growth & Lifecycle Infrastructure - Music & Audio | Los Angeles, CA or Remote (United States) | Senior | `Product Led Growth` `Lifecycle Marketing` `Cdp` | 6d | <a href="https://go.landed.jobs/3gqPQx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[SailPoint](https://sailpoint.com)** | Staff Software Engineer, Developer Relations | United States | Staff | `Sdk` `Cli` `Api Design` | 6d | <a href="https://go.landed.jobs/rZaDDp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Solutions Architect, Data Platform GTM | US, CA, Santa Clara | Senior | `Solutions Architecture` `Go To Market` `Data Platforms` | 6d | <a href="https://go.landed.jobs/qQVmYq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Lovable](https://lovable.dev)** | GTM Engineering Lead | Boston | Staff | `Python` `Javascript` `Typescript` | 7d | <a href="https://go.landed.jobs/X2fGuG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Zoom](https://zoom.com)** | Principa AI Product Manager - AI Agent Product Growth | Seattle (WA) | Principal | `Product Growth` `Product Adoption` `Onboarding` | 7d | <a href="https://go.landed.jobs/UwpSnS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Technical Marketing Engineer - EDA and Semiconductor | US, CA, Santa Clara | Senior | `Technical Marketing` `Developer Relations` `Technical Content Creation` | 7d | <a href="https://go.landed.jobs/dnE3Vh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Technical Lead, GenAI - Autonomous Vehicles | US, CA, Santa Clara | Senior | `Generative Ai` `Llm` `Autonomous Vehicles` | 7d | <a href="https://go.landed.jobs/UYXa74" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Developer Relationship Manager - Autonomous Vehicles | US, CA, Santa Clara | Senior | `Python` `C++` `Cuda` | 7d | <a href="https://go.landed.jobs/qHKZZn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Pebl](https://hellopebl.com)** | Engineering Manager, Growth | Palo Alto, CA | Senior | `React` `Typescript` `Aws` | 7d | <a href="https://go.landed.jobs/HD8xzP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Roquette](https://roquette.com)** | Capsules Business Development Scientist (M/F) | Bomlitz | Principal | `Pharmaceuticals` `Technical Support` `Customer Relationship Management` | 8d | <a href="https://go.landed.jobs/WNneaR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Developer Relations Manager, Energy - Power Generation Ecosystem | US, CA, Santa Clara | Senior | `Developer Relations` `Ecosystem Development` `Gpu Accelerated Computing` | 8d | <a href="https://go.landed.jobs/XkECkp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Fonoa](https://fonoa.com)** | Revenue AI & Automation Architect | 🌐 Remote | Senior | `Salesforce` `GTM Systems` `Automation` | 12d | <a href="https://go.landed.jobs/DmhN4f" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Workday](https://workday.com)** | Principal Developer Relations Engineer | USA, CA, Pleasanton | Principal | `Developer Relations` `Developer Enablement` `Technical Consulting` | 13d | <a href="https://go.landed.jobs/b4vGZK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Workday](https://workday.com)** | Senior Developer Relations Engineer | USA, CA, Pleasanton | Senior | `Developer Relations` `Developer Enablement` `Technical Consulting` | 13d | <a href="https://go.landed.jobs/E9Yftd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Ecosystem Developer Relationships Manager | Vietnam, Ho Chi Minh City | Senior | `Llm` `Genai` `Nvidia` | 13d | <a href="https://go.landed.jobs/FCmTKq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[ELSA](https://elsaspeak.com)** | Global CRM Manager | India, IN | Senior | `Crm` `Braze` `Moengage` | 14d | <a href="https://go.landed.jobs/zRNwVb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Spring Health](https://springhealth.com)** | Senior Product Manager, Member Growth | Seattle, WA (hybrid) | Senior | `Product Management` `User Growth` `Acquisition` | 15d | <a href="https://go.landed.jobs/BQwd6T" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Spring Health](https://springhealth.com)** | Senior Product Manager, Member Growth | San Francisco, CA (Hybrid) | Senior | `Product Management` `User Growth` `Acquisition` | 15d | <a href="https://go.landed.jobs/3eKff2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Engagement Tech Lead, Developer Relations - AI Agents | US, CA, Santa Clara | Senior | `AgentOps` `LLMOps` `GenAIOps` | 15d | <a href="https://go.landed.jobs/pp4vDS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Developer Advocate Engineer | US, CA, Santa Clara | Senior | `Nvidia Omniverse` `Isaac Sim` `Isaac Lab` | 17d | <a href="https://go.landed.jobs/RqADzx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[CrowdStrike](https://crowdstrike.com)** | AI Solutions Strategist, GTM Applications (Remote) | 🌐 Remote | Senior | `Agentic Ai` `Llm` `Rag Pipelines` | 18d | <a href="https://go.landed.jobs/8vHKgX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Palo Alto Networks](https://paloaltonetworks.com)** | Industry Principal, Artificial Intelligence | Office - Singapore - Singapore | Principal | `Llm` `Agentic Ai` `Ai Security` | 19d | <a href="https://go.landed.jobs/ERNKMR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Scribe](https://scribehow.com)** | GTM Engineer | 🌐 Remote | Senior | `Ai` `Claude` `Openai` | 19d | <a href="https://go.landed.jobs/bUAwQe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Engineering Manager, GTM Engineering | New York, New York, United States | Staff | `Growth Hacking` `Marketing Automation` `Experimentation Platforms` | 19d | <a href="https://go.landed.jobs/c9t49w" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Engineering Manager, GTM Engineering | Seattle, Washington, United States | Senior | `Engineering Management` `Gtm Engineering` `Marketing Website Development` | 19d | <a href="https://go.landed.jobs/bnGWwr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Staff Product Manager, Growth | Vancouver, British Columbia, Canada | Staff | `Product Strategy` `Roadmap Development` `GTM Systems` | 19d | <a href="https://go.landed.jobs/SdUqVU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Staff Product Manager, Growth | Seattle, Washington, United States | Staff | `Product Strategy` `Roadmap Development` `GTM Systems` | 19d | <a href="https://go.landed.jobs/U7VNza" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Staff Product Manager, Growth | New York, New York, United States | Staff | `Product Strategy` `Roadmap Development` `GTM Systems` | 19d | <a href="https://go.landed.jobs/dVf2eL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Staff Product Manager, Growth | San Francisco, California, United States | Staff | `Product Strategy` `Roadmap Development` `GTM Systems` | 19d | <a href="https://go.landed.jobs/Q2pAhK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Engineering Manager, GTM Engineering | Vancouver, British Columbia, Canada | Senior | `Frontend` `Backend` `Data Engineering` | 19d | <a href="https://go.landed.jobs/dU4Tty" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Brex](https://brex.com)** | Engineering Manager, GTM Engineering | San Francisco, California, United States | Senior | `Growth Hacking` `Marketing Automation` `Experimentation Platforms` | 19d | <a href="https://go.landed.jobs/XyKrSQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Pinterest](https://pinterest.com)** | Staff Software Engineer, Growth AI | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Los Angeles, CA, US | Staff | `Python` `Distributed Systems` `Api Design` | 19d | <a href="https://go.landed.jobs/q9KR5T" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[AlphaSense](https://alpha-sense.com)** | Senior Manager, GTM Engineering | Remote - Canada | Senior | `Salesforce` `Apex` `Python` | 20d | <a href="https://go.landed.jobs/58stw4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[AlphaSense](https://alpha-sense.com)** | Senior Manager, GTM Engineering | New York, New York, United States | Senior | `Salesforce` `Apex` `Python` | 20d | <a href="https://go.landed.jobs/DRAH8S" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Restaurant365](https://restaurant365.com)** | Senior Growth Marketing Engineer | Irvine, CA | Senior | `Growth Marketing` `Marketing Operations` `Marketing Analytics` | 20d | <a href="https://go.landed.jobs/rc8H6S" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Joko](https://joko.com)** | VP Growth | 🌐 Remote | Exec | `Growth Hacking` `Performance Marketing` `B2c Growth` | 20d | <a href="https://go.landed.jobs/fQtaKD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Developer Relations Manager Automotive | Germany, Remote | Senior | `Developer Relations` `Technical Advocacy` `Automotive Industry` | 20d | <a href="https://go.landed.jobs/b6yVKa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Clay](https://clay.com)** | GTM Engineer - Systems and Infrastructure | 🌐 Remote | Senior | `Salesforce` `Python` `Javascript` | 21d | <a href="https://go.landed.jobs/SCH3yN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[TravelPerk](https://travelperk.com)** | Senior GTM Engineer | London | Senior | `Python` `Llm` `Salesforce` | 21d | <a href="https://go.landed.jobs/bs3fQC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[TravelPerk](https://travelperk.com)** | Senior GTM Engineer | 🌐 Remote | Senior | `Clay` `Llm` `Ai` | 21d | <a href="https://go.landed.jobs/DkZTAn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Gojob](https://gojob.com)** | Head of AI Solutions Engineering H/F | Paris | Exec | `Llm` `Saas` `Product Strategy` | 25d | <a href="https://go.landed.jobs/E8L5QG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior GenAI Engagement Lead, Partner Platforms | US, CA, Santa Clara | Senior | `Generative Ai` `Llm` `Rag` | 25d | <a href="https://go.landed.jobs/ku9Tws" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Principal GenAI Engagement Lead, Partner Platforms | US, CA, Santa Clara | Principal | `Generative Ai` `Llm` `Agents` | 25d | <a href="https://go.landed.jobs/HLB8HM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior GenAI Technical Lead, Partner Platforms | US, CA, Santa Clara | Senior | `RAG` `LLM Inference` `Multi Agent Workflows` | 25d | <a href="https://go.landed.jobs/xxvWbL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Developer Relations Manager, ISV | UK, Remote | Senior | `Developer Relations` `Technical Advocacy` `Go To Market Strategy` | 26d | <a href="https://go.landed.jobs/D3Uwmc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Yext](https://yext.co.uk)** | Senior Salesforce Developer | Hyderabad, India | Senior | `Salesforce` `Apex` `Lightning Web Components` | 28d | <a href="https://go.landed.jobs/e2nZY3" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Aptivio](https://aptiv.io)** | Application Engineering Supervisor | Troy, MI - USA | Senior | `Automotive Engineering` `Customer Relationship Management` `Technical Sales` | 28d | <a href="https://go.landed.jobs/VS4H7u" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Salesforce](https://salesforce.com)** | Growth Lifecycle Automation Marketing Senior Manager | 🌐 Remote | Senior | `Lifecycle Automation` `Growth Engineering` `Marketing Automation` | 28d | <a href="https://go.landed.jobs/PKaLd2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Technical Marketing Engineer - Physical AI for Healthcare | US, CA, Santa Clara | Senior | `Physical Ai` `Robotics Simulation` `Medical Imaging` | 28d | <a href="https://go.landed.jobs/937dVC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[AKUR8](https://akur8-tech.com)** | Senior Life Actuary | London | Senior | `Actuarial Modeling` `Life Insurance` `Annuities` | 29d | <a href="https://go.landed.jobs/H73H3b" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[SailPoint](https://sailpoint.com)** | Agentic AI Technologist | 🌐 Remote | Principal | `Agentic Ai` `Llm Frameworks` `Langchain` | 29d | <a href="https://go.landed.jobs/7mFqgU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Salesforce](https://salesforce.com)** | CTO  - Agentic Process Automation & Intelligence | Illinois - Chicago | Exec | `Agentic Automation` `Llm Architecture` `Rag` | 29d | <a href="https://go.landed.jobs/efSSzg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Joko](https://joko.com)** | Growth Product Manager (senior level) | 🌐 Remote | Senior | `Product Strategy` `User Onboarding` `A B Testing` | 32d | <a href="https://go.landed.jobs/7rwhkr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Lighthouse](https://mylighthouse.com)** | Senior AI Solutions Engineer for Revenue & Go-To-Market | Barcelona, Spain | Senior | `Python` `Google Cloud Platform` `Llm Apis` | 33d | <a href="https://go.landed.jobs/3phdCH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Lighthouse](https://mylighthouse.com)** | Senior AI Solutions Engineer for Revenue & Go-To-Market | Ghent, Belgium | Senior | `Python` `Google Cloud Platform` `Llm Apis` | 33d | <a href="https://go.landed.jobs/ZYb4L9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Vanta](https://vanta.com)** | Senior Software Engineer, GTM Engineering | 🌐 Remote | Senior | `Python` `Typescript` `Sql` | 33d | <a href="https://go.landed.jobs/XYzscM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Smarking](https://smarking.com)** | Director, Lifecycle Marketing - 12 month FTC | London, England, United Kingdom | Senior | `Lifecycle Marketing` `CRM` `Retention Marketing` | 33d | <a href="https://go.landed.jobs/hUA7bA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Technical Marketing Engineer | US, CA, Santa Clara | Senior | `Linux` `Python` `C++` | 33d | <a href="https://go.landed.jobs/XH8EyS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Saviynt](https://saviynt.com)** | Customer Success AI Architect | Remote US | Senior | `Python` `Apis` `Integrations` | 33d | <a href="https://go.landed.jobs/9vXys6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Senior Technical Product Marketing Engineer | US, CA, Santa Clara | Senior | `Agent Orchestration` `Llm` `Vlms` | 34d | <a href="https://go.landed.jobs/7d2shp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Zynga](https://zynga.com)** | Senior UA Manager | London, UK | Senior | `User Acquisition` `Performance Marketing` `Mobile Gaming` | 35d | <a href="https://go.landed.jobs/USPyDG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Siena](https://siena.cx)** | Head of Growth | 🌐 Remote | Exec | `Growth Marketing` `Demand Generation` `Product Marketing` | 39d | <a href="https://go.landed.jobs/fusT9q" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Palo Alto Networks](https://paloaltonetworks.com)** | Principal Software Engineer, Go-To-Market (GTM) and CX Products | Office - USA - CA - Headquarters | Principal | `Llm` `Agents` `Rag` | 39d | <a href="https://go.landed.jobs/VF4VPq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Samba TV](https://samba.tv)** | Marketing Engineer | San Francisco, California | Senior | `Llm` `Agents` `Prompt Engineering` | 42d | <a href="https://go.landed.jobs/cHhpPH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Clay](https://clay.com)** | GTM Engineer - Seller Efficiency | 🌐 Remote | Senior | `Python` `Javascript` `Sql` | 42d | <a href="https://go.landed.jobs/aPxKrK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Clay](https://clay.com)** | GTM Engineer - Ecosystem | 🌐 Remote | Senior | `Python` `Javascript` `Sql` | 42d | <a href="https://go.landed.jobs/LgvBxH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Valiantys Group](https://valiantys.com)** | Director, AI-Enabled DevOps Transformation | 🌐 Remote | Exec | `DevOps` `AI Enabled SDLC` `LLM` | 43d | <a href="https://go.landed.jobs/sZpqXe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Salesforce](https://salesforce.com)** | Principal Data and AI Architect | Spain - Madrid | Principal | `Generative Ai` `Llm` `Agent Orchestration` | 43d | <a href="https://go.landed.jobs/PYAmYe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[DISQO](https://disqo.com)** | Staff / Sr. Staff Software Engineer, GTM Innovation | 🌐 Remote | Staff | `Python` `Typescript` `React` | 46d | <a href="https://go.landed.jobs/hrLQZ4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Palo Alto Networks](https://paloaltonetworks.com)** | Sr IT Product Manager - GTM | Office - USA - CA - Headquarters | Senior | `Product Management` `AI/ML` `LLMs` | 48d | <a href="https://go.landed.jobs/mqn3M7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Palo Alto Networks](https://paloaltonetworks.com)** | Senior Manager, Technical Marketing Engineer | Office - USA - CA - Headquarters | Senior | `SASE` `SSE` `SD WAN` | 48d | <a href="https://go.landed.jobs/Vd86fF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Moloco](https://moloco.com)** | Senior Growth Manager | Tokyo, Japan | Senior | `Programmatic Advertising` `Ad Tech` `Mobile Advertising` | 50d | <a href="https://go.landed.jobs/km5q6w" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Gushwork](https://gushwork.ai)** | Founder's Office (New Products) | 🌐 Remote | Senior | `Agent Orchestration` `Voice Ai` `Automation Workflows` | 50d | <a href="https://go.landed.jobs/dPkfe2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Frame.io](https://frame.io)** | Firefly Foundry Field CTO, Brands & Agency | New York | Exec | `Generative Ai` `Llm` `Enterprise Sales` | 50d | <a href="https://go.landed.jobs/HRq5VK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Airwallex](https://airwallex.com)** | Engineering Lead, Growth | SG - Singapore | Senior | `Java` `Kotlin` `Spring` | 53d | <a href="https://go.landed.jobs/ppbETD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[CrowdStrike](https://crowdstrike.com)** | Customer Value Architect - Enterprise (West, Remote) | 🌐 Remote | Senior | `Customer Success` `Account Management` `Cybersecurity` | 54d | <a href="https://go.landed.jobs/7wqBwA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Clockwork Systems](https://clockwork.io)** | Revenue Operations Lead/GTM Engineer | On Site, Palo Alto, California | Senior | `Salesforce` `Hubspot` `Python` | 56d | <a href="https://go.landed.jobs/nRhAG4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Recorded Future](https://recordedfuture.com)** | Marketing Systems & AI Automation Manager | Boston, MA | Senior | `Marketing Automation` `CRM` `Salesforce` | 57d | <a href="https://go.landed.jobs/3TRYyL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Anrok](https://anrok.com)** | GTM Engineer | San Francisco | Senior | `Python` `Javascript` `Gcp` | 59d | <a href="https://go.landed.jobs/R5QB7A" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Socure](https://socure.com)** | Head of Growth Engineering | Hybrid - San Francisco, CA | Senior | `Python` `Javascript` `React` | 59d | <a href="https://go.landed.jobs/4Q8DXr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Talos](https://talos.com)** | GTM Engineer | New York | Senior | `Salesforce` `Marketo` `Python` | 61d | <a href="https://go.landed.jobs/cFaQTy" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Moloco](https://moloco.com)** | Senior Strategic Growth Manager (Commerce Media) | Seoul, Korea | Senior | `Performance Advertising` `Ad Tech` `Retail Media` | 63d | <a href="https://go.landed.jobs/NkrkgT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[nPlan](https://nplan.io)** | VP of Growth | London, GB | Exec | `Demand Generation` `Growth Marketing` `Pipeline Generation` | 68d | <a href="https://go.landed.jobs/M5LKR6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Anaplan](https://anaplan.com)** | Salesforce Solution Architect | Gurugram, India | Senior | `Salesforce Sales Cloud` `Salesforce CPQ` `Gainsight` | 69d | <a href="https://go.landed.jobs/CWFQFu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Frame.io](https://frame.io)** | Principal Value Consultant Firefly Enterprise Solutions | Remote Germany | Principal | `Generative Ai` `Value Consulting` `Business Case Development` | 77d | <a href="https://go.landed.jobs/x67vT8" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Autodesk](https://autodesk.co.uk)** | Software Architect, Sales & Success | San Francisco, CA, USA | Senior | `Generative Ai` `Llm` `Agents` | 77d | <a href="https://go.landed.jobs/fFtZfW" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Salesforce](https://salesforce.com)** | Slack Growth Marketing Senior Manager | Japan - Tokyo | Senior | `SaaS` `PLG` `Digital Marketing` | 78d | <a href="https://go.landed.jobs/DbanwE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Airwallex](https://airwallex.com)** | Director GTM Engineering | 🌐 Remote | Exec | `Salesforce` `Marketo` `Apis` | 80d | <a href="https://go.landed.jobs/ggpRzS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Gojob](https://gojob.com)** | Head of AI Solutions | Aix-en-Provence | Exec | `Llm` `Saas` `Product Strategy` | 81d | <a href="https://go.landed.jobs/D69KkT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Frame.io](https://frame.io)** | Product Marketing Manager and GenAI Strategist | San Jose | Senior | `Generative Ai` `Product Marketing` `Go To Market Strategy` | 84d | <a href="https://go.landed.jobs/Yr6Dq5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[H2O.ai](https://h2o.ai)** | Technical Program Manager | Charlotte, NC | Senior | `Program Management` `Customer Success` `AI/ML` | 89d | <a href="https://go.landed.jobs/w7Kss4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-
-[⬆ back to top](#top)
-
-<a name="mid"></a>
-## ⚙️ Mid-level · 65
-
-| Company | Role | Location | Level | Top skills | Posted | Apply |
-|---|---|---|---|---|---|---|
-| **[Waymo](https://waymo.com)** | Technical Lead Manager, Rider Growth | Mountain View, CA, USA; San Francisco, CA, USA | Unknown | `Backend` `Fullstack` `Mobile` | today | <a href="https://go.landed.jobs/SZnwkN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Asana](https://asana.com)** | AI Strategist, Service Management Implementation | New York City | Mid | `Customer Success` `Implementation Consulting` `Product Strategy` | today | <a href="https://go.landed.jobs/59LPSF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Stripe](https://stripe.com)** | Full Stack Engineer, Growth | Singapore | Mid | `Ruby` `React` `Javascript` | 3d | <a href="https://go.landed.jobs/Ty9Gyg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Stripe](https://stripe.com)** | Implementation Specialist, GTM Accelerate | Dublin | Mid | `Api Integration` `Technical Consulting` `SaaS` | 3d | <a href="https://go.landed.jobs/kChD8X" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Emanate](https://emanate.ai)** | Growth Engineer | San Francisco | Mid | `Python` `Sql` `Experimentation` | 3d | <a href="https://go.landed.jobs/R3W8WM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Pennylane](https://pennylane.com)** | AI & Ops Automation | Paris offices | Mid | `N8n` `Automation` `Ai Agents` | 3d | <a href="https://go.landed.jobs/AQufSV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Sphere, Inc.](https://getsphere.com)** | GTM Engineer | San Francisco HQ | Mid | `Sql` `Zapier` `Crm` | 4d | <a href="https://go.landed.jobs/kayXEx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Aptivio](https://aptiv.io)** | Application Engineer Industrial & Robotics / Ingénieur d’Applications Industrie & Robotique (H/F) | Torino, Italy | Mid | `Technical Problem Solving` `Customer Engagement` `Product Development` | 4d | <a href="https://go.landed.jobs/EaSDeB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Waymo](https://waymo.com)** | Product Manager, Growth | Mountain View, CA, USA; San Francisco, CA, USA | Mid | `Product Management` `Consumer Products` `Growth Marketing` | 5d | <a href="https://go.landed.jobs/XAQFyb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Basis](https://getbasis.ai)** | Growth Engineer | New York Office | Mid | `Sql` `Api` `Crm` | 5d | <a href="https://go.landed.jobs/UFYhmb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Lillio](https://himama.com)** | Demand Generation Manager | 🌐 Remote | Mid | `Demand Generation` `Growth Marketing` `Performance Marketing` | 5d | <a href="https://go.landed.jobs/y8cBuw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Hologram](https://hologram.io)** | GTM Engineer | 🌐 Remote | Mid | `Python` `Javascript` `Sql` | 6d | <a href="https://go.landed.jobs/M8TRen" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Rippling](https://rippling.com)** | GTM Engineer | Hybrid (New York, New York, US) | Unknown | `Agent Orchestration` `Llm Fine Tuning` `Prompt Engineering` | 6d | <a href="https://go.landed.jobs/MG3RNk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Addi](https://addi.com)** | GTM Engineer | Bogotá | Mid | `Python` `Sql` `Salesforce` | 7d | <a href="https://go.landed.jobs/6dQyR2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Polymarket](https://polymarket.com)** | Growth Engineer | New York | Mid | `Full Stack` `A B Testing` `Product Analytics` | 11d | <a href="https://go.landed.jobs/YaxwwN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[COMPASS Pathways](https://compasspathways.com)** | HEOR Science Liaison | 🌐 Remote | Mid | `HEOR` `RWE` `Pharmacoeconomics` | 12d | <a href="https://go.landed.jobs/HGDdE5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Granola](https://granola.so)** | GTM Engineer | London | Mid | `Sql` `Typescript` `Python` | 13d | <a href="https://go.landed.jobs/kWLU95" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Wealth](https://wealth.com)** | GTM Engineer | 🌐 Remote | Mid | `Salesforce` `Api` `Webhooks` | 14d | <a href="https://go.landed.jobs/RamzFQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Justworks](https://justworks.com)** | GTM Engineer | New York, New York | Mid | `Python` `Typescript` `Sql` | 19d | <a href="https://go.landed.jobs/uHu7Lc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Macroscope](https://macroscope.com)** | GTM Engineer | San Francisco | Mid | `Python` `Javascript` `Typescript` | 19d | <a href="https://go.landed.jobs/Fn7uHx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Sigma Computing](https://sigmacomputing.com)** | Agentic Marketing Engineer | San Francisco, CA | Mid | `Agent Orchestration` `Llm Prompt Engineering` `Llm Fine Tuning` | 20d | <a href="https://go.landed.jobs/HEAXsU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Frame.io](https://frame.io)** | Creator Evangelist | Remote California | Unknown | `Generative Ai` `Llm` `Agents` | 20d | <a href="https://go.landed.jobs/Z4HsMu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Skydio](https://skydio.com)** | GTM Engineer, Post-Sales | 🌐 Remote | Mid | `Python` `Sql` `Salesforce` | 20d | <a href="https://go.landed.jobs/TWphNA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Metabase](https://metabase.com)** | Demand Generation | 🌐 Remote | Mid | `Demand Generation` `B2b Saas Marketing` `Paid Social` | 21d | <a href="https://go.landed.jobs/2uMmCL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Blitzy](https://blitzy.com)** | Software Developer Growth Engineer | Cambridge, MA | Mid | `Python` `Docker` `Kubernetes` | 24d | <a href="https://go.landed.jobs/dKag5G" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Aikido Security](https://aikido.dev)** | Search Ads Specialist | Ghent, Oost-Vlaanderen, Belgium | Mid | `Google Ads` `Bing Ads` `Chatgpt Ads` | 25d | <a href="https://go.landed.jobs/QTHsrU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Clera](https://getclera.com)** | Founding GTM Engineer | San Francisco | Mid | `Python` `React` `Api` | 25d | <a href="https://go.landed.jobs/h4L9wF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[23andMe](https://23andme.com)** | Growth Designer & Video Editor (Contract) | Palo Alto (HQ) | Mid | `Performance Marketing` `Direct Response` `Video Editing` | 26d | <a href="https://go.landed.jobs/pkVUGz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Pretto](https://pretto.fr)** | Product Manager Growth H/F | Paris, Île-de-France | Mid | `Product Management` `Growth Marketing` `SEO` | 27d | <a href="https://go.landed.jobs/AmwyH7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Zynga](https://zynga.com)** | Growth Manager(Social Media + Community Management) | Bengaluru, India | Mid | `Community Management` `Social Media Strategy` `Influencer Marketing` | 28d | <a href="https://go.landed.jobs/z3qESc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[2100 NVIDIA USA](https://nvidia.com)** | Developer Advocate – Distributed Training | US, CA, Santa Clara | Mid | `Developer Advocacy` `Llm` `Distributed Training` | 32d | <a href="https://go.landed.jobs/4HNazc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Checkatrade](https://careers.checkatrade.com)** | Trade Growth Lead (Maternity Cover) | Moorgate London | Mid | `Growth Marketing` `Product Growth` `Experimentation` | 32d | <a href="https://go.landed.jobs/RtPZVK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[SplitMetrics](https://splitmetrics.com)** | Growth Marketing Manager | 🌐 Remote | Mid | `Growth Marketing` `Demand Generation` `B2B Marketing` | 34d | <a href="https://go.landed.jobs/aqTHv7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[NewsBreak](https://newsbreak.com)** | Growth Intelligence Engineer (Ads & Revenue) | Mountain View, California, United States | Mid | `Python` `Sql` `Pyspark` | 34d | <a href="https://go.landed.jobs/ADH9Xa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Gushwork](https://gushwork.ai)** | Campaign Manager | 🌐 Remote | Mid | `Meta Ads` `Google Ads` `Linkedin Ads` | 35d | <a href="https://go.landed.jobs/3eANdd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Salesforce](https://salesforce.com)** | Experience Engineer Headless360 | Japan - Tokyo | Mid | `Llm` `Agents` `Prompt Engineering` | 36d | <a href="https://go.landed.jobs/FCKhTZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Speechify](https://speechify.com)** | Go-to-Market Engineer | 🌐 Remote | Mid | `Python` `Api` `Zapier` | 39d | <a href="https://go.landed.jobs/TE32Q2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Juniper Square](https://junipersquare.com)** | GTM Engineer | 🌐 Remote | Mid | `Llm` `Salesforce` `Python` | 39d | <a href="https://go.landed.jobs/u67qML" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Faraday Future](https://ff.com)** | Data-Driven Growth Specialist | El Segundo, California, United States | Mid | `Llm Engineer` `Agent Engineer` `Growth Eng` | 42d | <a href="https://go.landed.jobs/GaBfNY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Snowflake](https://snowflake.com)** | GTM Engineer - ABM, Advertising and Growth Marketing | US-CA-Menlo Park | Mid | `Python` `Javascript` `Sql` | 42d | <a href="https://go.landed.jobs/Q555fs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Clay](https://clay.com)** | GTM Engineer - CX | 🌐 Remote | Mid | `Python` `Javascript` `Sql` | 42d | <a href="https://go.landed.jobs/fz8UVd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Airtable](https://airtable.com)** | GTM Engineer | 🌐 Remote | Mid | `Python` `Javascript` `Salesforce` | 45d | <a href="https://go.landed.jobs/utCrR2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[iwoca](https://iwoca.co.uk)** | Growth Marketing Manager | London | Mid | `Paid Search` `Direct Mail` `Google Ads` | 49d | <a href="https://go.landed.jobs/ahCssG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Joko](https://joko.com)** | User Acquisition Manager | 🌐 Remote | Mid | `User Acquisition` `Paid Social` `App Store Optimization` | 50d | <a href="https://go.landed.jobs/wCZWEG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Moloco](https://moloco.com)** | Growth Manager | Tokyo, Japan | Mid | `Account Management` `Programmatic Advertising` `Mobile Advertising` | 53d | <a href="https://go.landed.jobs/Dy2ahe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[OakNorth](https://oaknorth.com)** | Organic Growth Specialist - SEO/AEO | London | Mid | `SEO` `AEO` `AI Agents` | 56d | <a href="https://go.landed.jobs/WnDzdF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Selector AI](https://selector.ai)** | Technical Marketing Engineer | 🌐 Remote | Mid | `Technical Marketing` `Product Marketing` `Content Creation` | 57d | <a href="https://go.landed.jobs/8cr5Qg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[iwoca](https://iwoca.co.uk)** | Performance Marketing Executive - Direct Acquisition / Performance Marketing | London | Unknown | `Paid Search` `Performance Marketing` `Direct Mail` | 60d | <a href="https://go.landed.jobs/dRfg2v" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Samba TV](https://samba.tv)** | Growth Marketer, Pipeline Development | Los Angeles, California | Mid | `Conversational Marketing` `Demand Generation` `B2b Marketing` | 60d | <a href="https://go.landed.jobs/trpdgk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[LangChain](https://langchain.com)** | GTM Engineer | 🌐 Remote | Mid | `Python` `Typescript` `Llm` | 61d | <a href="https://go.landed.jobs/BVgfXf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Playground](https://playground.global)** | Founding GTM Engineer | New York City | Mid | `Python` `Javascript` `Salesforce` | 62d | <a href="https://go.landed.jobs/FyeHCD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Eleos Health](https://eleos.health)** | AI Builder (US, Remote) | 🌐 Remote | Mid | `Zapier` `Make` `N8n` | 62d | <a href="https://go.landed.jobs/ckGKVc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Mutiny](https://mutinyhq.com)** | GTM Engineer | In person in New York City | Mid | `Python` `Api` `Data Pipelines` | 62d | <a href="https://go.landed.jobs/HNVFL2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Baseten](https://baseten.co)** | GTM Engineer | 🌐 Remote | Mid | `Python` `Salesforce` `Apis` | 69d | <a href="https://go.landed.jobs/VBmtpE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Saviynt](https://saviynt.com)** | Marketing Ops AI Agent Engineer | Remote US | Mid | `Agent Orchestration` `Llm Prompt Engineering` `Gtm Automation` | 70d | <a href="https://go.landed.jobs/wug74s" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Moloco](https://moloco.com)** | Growth Manager - Advertiser & Agency (Commerce Media) | Seoul, Korea | Mid | `Digital Advertising` `E Commerce` `Ad Tech` | 70d | <a href="https://go.landed.jobs/4qptre" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Ironclad](https://ironcladapp.com)** | GTM Engineer | San Francisco | Mid | `Python` `Llm` `Zapier` | 73d | <a href="https://go.landed.jobs/436TKL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Dust](https://dust.tt)** | Growth Engineer | San Francisco | Mid | `Typescript` `React` `Python` | 74d | <a href="https://go.landed.jobs/M2WuWY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Parloa](https://parloa.com)** | GTM Engineer | 🌐 Remote | Mid | `Typescript` `Nodejs` `Python` | 75d | <a href="https://go.landed.jobs/XayUdk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Hilbert](https://hilberts.ai)** | GTM Engineer / RevOps Lead | 🌐 Remote | Mid | `Python` `Api` `Webhooks` | 76d | <a href="https://go.landed.jobs/TU8YmH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Moloco](https://moloco.com)** | Growth Manager (Commerce Media) | Seoul, Korea | Mid | `Digital Advertising` `E Commerce` `Ad Tech` | 77d | <a href="https://go.landed.jobs/V9kDA5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Creative Fabrica](https://creativefabrica.com)** | Faceless Video Creator | 🌐 Remote | Mid | `Tiktok` `Instagram Reels` `Youtube Shorts` | 78d | <a href="https://go.landed.jobs/u2cE5H" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[WorkOS](https://workos.com)** | GTM Engineer | 🌐 Remote | Mid | `Python` `Typescript` `Sql` | 81d | <a href="https://go.landed.jobs/WTfnrF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Sift](https://siftstack.com)** | GTM Engineer | Marina Del Rey, CA | Mid | `Python` `Ai` `Automation` | 82d | <a href="https://go.landed.jobs/kY5vqP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Glimpse](https://tryglimpse.com)** | GTM Engineer | NYC HQ | Mid | `Python` `Javascript` `Sql` | 89d | <a href="https://go.landed.jobs/YxNyMV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-
-[⬆ back to top](#top)
-
-<a name="junior"></a>
-## 🌱 Junior & New Grad · 1
-
-| Company | Role | Location | Level | Top skills | Posted | Apply |
-|---|---|---|---|---|---|---|
-| **[Pennylane](https://pennylane.com)** | Fullstack Software Engineer RoR/JS W/M | 🌐 Remote | Junior | `Ruby On Rails` `Javascript` `Vuejs` | 76d | <a href="https://go.landed.jobs/v6zTZt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-
-[⬆ back to top](#top)
-
-<a name="intern"></a>
-## 🎓 Internships · 1
-
-| Company | Role | Location | Level | Top skills | Posted | Apply |
-|---|---|---|---|---|---|---|
-| **[Agriplace](https://agriplace.com)** | Growth Marketing Internship - Growing Impact Scale Up | Amsterdam, 1012 SH | Intern | `Marketing Automation` `Workflow Automation` `AI Agents` | 8d | <a href="https://go.landed.jobs/WLQWWF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-
-[⬆ back to top](#top)
+> A sample of what's live. **[See every GTM Engineer role + 1-click tracking on Landed →](https://landed.jobs)**
 
 ---
 
 ## How to actually land one
 
-These roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
+Applying cold is the slow path — these roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
 
 **[Get started free → https://landed.jobs](https://landed.jobs)**
 
+---
+
 ## Related
 
-- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs) — the umbrella for the whole family
+- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs)
 - 🧪 [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job)
+- 🗺️ Roadmaps & interview prep — see the [Landed org](https://github.com/landedjobs)
 
 ## Contributing
 
 Spotted a role we missed? Open a PR or issue.
 
-<sub>192 roles · 50 remote · updated 2026-06-30 · maintained by [Landed](https://landed.jobs). Not affiliated with the listed companies.</sub>
+---
+
+<sub>Maintained by [Landed](https://landed.jobs). Data refreshed automatically. Not affiliated with the listed companies.</sub>
